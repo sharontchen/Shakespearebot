@@ -2,8 +2,6 @@
 # ----------------
 # Loads and pre-processes Shakespearean sonnet data to train on.
 
-import nltk
-
 def process_data(sonnets):
     '''
     Takes in the data in the form outputted by `import_shakespeare` or
@@ -16,7 +14,9 @@ def process_data(sonnets):
         line_new = []
         for line in sonnet:
             for word in line.split():
-                if word[-1] in [',', '.', ':', "'"]:
+                if word[-1] in [',', '.', '?', ':']:
+                    word = word[:-1]
+                if word[-1] == "'" and word[-2] not in ['t', 'h']:
                     word = word[:-1]
                 if word[0] == "'" and word[1].isupper():
                     word = word[1:]
@@ -24,7 +24,7 @@ def process_data(sonnets):
         data.append(line_new)
     return data
 
-def import_shakespeare():
+def load_shakespeare():
     '''
     Imports dataset of Shakespearean sonnets and returns all the sonnets as a
     list of lists. Each element is a sublist representing a sonnet, and each
@@ -44,7 +44,7 @@ def import_shakespeare():
     f.close()
     return sonnets
 
-def import_spenser():
+def load_spenser():
     '''
     Imports dataset of Spenser's sonnets and returns all the sonnets as a list
     of lists. Each element is a sublist representing a sonnet, and each element
