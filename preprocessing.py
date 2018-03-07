@@ -1,11 +1,10 @@
 # preprocessing.py
-# ----------------
 # Loads and pre-processes Shakespearean sonnet data to train on.
 
 def process_data(sonnets):
     '''
-    Takes in the data in the form outputted by `import_shakespeare` or
-    `import_spenser` and processes it to generate a list of sequences for each
+    Takes in the data in the form outputted by `load_shakespeare` or
+    `load_spenser` and processes it to generate a list of sequences for each
     sonnet. For now, ignore punctuation and treat the entire sonnet as a single
     training sequence.
     '''
