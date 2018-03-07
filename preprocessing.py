@@ -3,13 +3,23 @@
 
 def processed_shakespeare_data():
     '''
-    Takes in the data in the form outputted by `load_shakespeare` or
-    `load_spenser` and processes it to generate a list of sequences for each
-    sonnet. Returns `data`, the sequences as a list of lists of integers, as
-    well as `dictionary`, which maps each integer to a word.
-    For now, we ignore punctuation and treat the entire sonnet as a single
-    training sequence.
+    Process dataset of all Shakespearean sonnets. For now, we ignore punctuation
+    and treat the entire sonnet as a single training sequence.
+
+    Outputs:
+        X               The input sequences. Each sequence is a sonnet, and each
+                        sonnet is represented as a list of integers, where the
+                        integer is the index of the word in `dictionary`.
+        dictionary      A list of all the words in all of Shakespeare's sonnets.
+        syllables       A Python dictionary which maps a word to a list of the
+                        number of syllables that word can have.
+        end_syllables   A Python dictionary which maps a word to a number
+                        representing the number of syllables it has when the
+                        word appears at the end of the line. If the number is 0,
+                        then the word doesn't appear at the end of a line.
     '''
+    # TODO: rhyming dictionary
+
     sonnets = load_shakespeare()
 
     # Tokenize the sonnets into individual words.
