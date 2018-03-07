@@ -4,6 +4,26 @@
 
 import nltk
 
+def process_data(sonnets):
+    '''
+    Takes in the data in the form outputted by `import_shakespeare` or
+    `import_spenser` and processes it to generate a list of sequences for each
+    sonnet. For now, ignore punctuation and treat the entire sonnet as a single
+    training sequence.
+    '''
+    data = []
+    for sonnet in sonnets:
+        line_new = []
+        for line in sonnet:
+            for word in line.split():
+                if word[-1] in [',', '.', ':', "'"]:
+                    word = word[:-1]
+                if word[0] == "'" and word[1].isupper():
+                    word = word[1:]
+                line_new.append(word.lower())
+        data.append(line_new)
+    return data
+
 def import_shakespeare():
     '''
     Imports dataset of Shakespearean sonnets and returns all the sonnets as a
@@ -51,7 +71,8 @@ def load_syllable_dict():
         [word, end, syllables]
             word:       the word
             end:        the number of syllables in the word if it appears at the
-                        end of the line
+                        end of the line. (if `end` is 0, then the word does not
+                        appear at the end of a line.)
             syllables:  a list of integers, representing the possible number of
                         syllables the word can have
     '''
