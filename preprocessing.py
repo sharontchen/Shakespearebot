@@ -18,29 +18,28 @@ def processed_shakespeare_data():
                         word appears at the end of the line. If the number is 0,
                         then the word doesn't appear at the end of a line.
     '''
-    # TODO: rhyming dictionary
-
     sonnets = load_shakespeare()
 
     # Tokenize the sonnets into individual words.
     X = []
-    for sonnet in sonnets:
-        line_new = []
-        for line in sonnet:
-            for word in line.split():
-                if word[0] == '(':
-                    word = word[1:]
-                if word[0] == "'" and word[1:].lower() not in \
-                ['gainst', 'greeing,', 'scaped', 'tis', 'twixt']:
-                    word = word[1:]
-                if word[-1] in [',', '.', '?', '!', ':', ';', ')']:
-                    word = word[:-1]
-                if word[-1] == "'" and word[:-1].lower() not in ['t', 'th']:
-                    word = word[:-1]
-                if word[-1] in [',', '.', '?', '!', ':', ';', ')']:
-                    word = word[:-1]
-                line_new.append(word.lower())
-        X.append(line_new)
+    for i, sonnet in enumerate(sonnets):
+        if i != 98 and i != 125:    # ignore sonnets 99 and 126
+            sonnet_new = []
+            for line in sonnet:
+                for word in line.split():
+                    if word[0] == '(':
+                        word = word[1:]
+                    if word[0] == "'" and word[1:].lower() not in \
+                    ['gainst', 'greeing,', 'scaped', 'tis', 'twixt']:
+                        word = word[1:]
+                    if word[-1] in [',', '.', '?', '!', ':', ';', ')']:
+                        word = word[:-1]
+                    if word[-1] == "'" and word[:-1].lower() not in ['t', 'th']:
+                        word = word[:-1]
+                    if word[-1] in [',', '.', '?', '!', ':', ';', ')']:
+                        word = word[:-1]
+                    sonnet_new.append(word.lower())
+            X.append(sonnet_new)
 
     # Convert the sequences of words to sequences of integers.
     syllable_dict = load_syllable_dict()
@@ -57,6 +56,48 @@ def processed_shakespeare_data():
         end_syllables[word[0]] = word[1]
 
     return X, dictionary, syllables, end_syllables
+
+def rhyming_dict():
+    '''
+    Returns a list, where each element is a list of the form [word1, word2].
+    word1 and word2 rhyme, based on the Shakespearean sonnet structure.
+    '''
+    sonnets = load_shakespeare()
+
+    # Tokenize the sonnets into individual words.
+    X = []
+    for i, sonnet in enumerate(sonnets):
+        if i != 98 and i != 125:    # ignore sonnets 99 and 126
+            sonnet_new = []
+            for line in sonnet:
+                line_new = []
+                for word in line.split():
+                    if word[0] == '(':
+                        word = word[1:]
+                    if word[0] == "'" and word[1:].lower() not in \
+                    ['gainst', 'greeing,', 'scaped', 'tis', 'twixt']:
+                        word = word[1:]
+                    if word[-1] in [',', '.', '?', '!', ':', ';', ')']:
+                        word = word[:-1]
+                    if word[-1] == "'" and word[:-1].lower() not in ['t', 'th']:
+                        word = word[:-1]
+                    if word[-1] in [',', '.', '?', '!', ':', ';', ')']:
+                        word = word[:-1]
+                    line_new.append(word.lower())
+                sonnet_new.append(line_new)
+            X.append(sonnet_new)
+
+    rhyme_dict = []
+    for i, sonnet in enumerate(X):  # rhyme scheme is abab cdcd efef gg
+        rhyme_dict.append([sonnet[0][-1], sonnet[2][-1]])
+        rhyme_dict.append([sonnet[1][-1], sonnet[3][-1]])
+        rhyme_dict.append([sonnet[4][-1], sonnet[6][-1]])
+        rhyme_dict.append([sonnet[5][-1], sonnet[7][-1]])
+        rhyme_dict.append([sonnet[8][-1], sonnet[10][-1]])
+        rhyme_dict.append([sonnet[9][-1], sonnet[11][-1]])
+        rhyme_dict.append([sonnet[12][-1], sonnet[13][-1]])
+
+    return rhyme_dict
 
 def load_shakespeare():
     '''
