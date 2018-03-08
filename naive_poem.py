@@ -1,5 +1,6 @@
 from HMM import unsupervised_HMM
 from preprocessing import processed_shakespeare_data
+import random
 
 def naive_poem_generator(n_states, N_iters, k):
     '''
@@ -32,7 +33,13 @@ def naive_poem_generator(n_states, N_iters, k):
         for j in range(14):
             line_syllables = 0
             while line_syllables < 10:
-                sonnet_lines[j].append(words_list[emission[e]])
+                # Capitalize first word in every line
+                if line_syllables == 0:
+                    sonnet_lines[j].append(words_list[emission[e]].capitalize())
+                # Append word to line
+                else:
+                    sonnet_lines[j].append(words_list[emission[e]])
+                # Add number of syllables
                 line_syllables += syllables[words_list[emission[e]]][0]
                 e += 1
 
@@ -41,9 +48,15 @@ def naive_poem_generator(n_states, N_iters, k):
         f = open('output/naive_poem.txt', 'a+')
 
         # Print the results.
-        for line in sonnet_lines:
-            print(' '.join([word for word in line]))
-            f.write(' '.join([word for word in line]))
+        for k, line in enumerate(sonnet_lines):
+            if k == 13:
+                print(' '.join([word for word in line]) + '.')
+                f.write(' '.join([word for word in line]) + '.')
+            else:
+                # Add some punctuation to the end of every sentence
+                # TODO: choose punctuation with  same probabilities as in original sonnets
+                print(' '.join([word for word in line]) + random.choice([';', '.', ',',':', '!', '']))
+                f.write(' '.join([word for word in line]) + random.choice([';', '.', ',',':', '!', '']))
             f.write('\n')
         f.write('\n\n')
         f.close()
