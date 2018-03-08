@@ -1,0 +1,3829 @@
+units: 128
+step: 3
+epochs: 60
+----- Generating text after Epoch: 0
+----- diversity:0.25
+----- Generating with seed: "shall i compare thee to a summer's day?
+"
+shall i compare thee to a summer's day?
+The the meat the the the mand the sull fall sue seall the in the ere steat the beall withen the ere wath the ere sulle the sull the meat thou sulle,
+And sull all the ere what the in the ell sulle the suale the meald wheall seat the seall the sull see fall the the ere thee sue the meas the seall the eald the ell sue the ere the ell fall steall fore the ere the eat the ell seat the meas seall seall the eat whe sull the ell the eed love dote the sull sulle wat the ere whe sulle the seer the meald faind dote falle the ere sueat the all suered the elle the su
+----- diversity:0.75
+----- Generating with seed: "shall i compare thee to a summer's day?
+"
+shall i compare thee to a summer's day?
+And blefud,
+And lang in thee ble wreall seafse stilat stape treas fears foll suely heen s of youad,
+As call thee all mingus eal-sief bof ild,
+Co hee that doued theat fae sury lond dleastr
+I warre theoe thead erafle cama the fast the mand anfeou suand, soeleene staen of fat,
+  All dat beam wit beate capl-ail thee eld witeer plene fall thmeiere sefeed,
+   od sint ese hay doua thet lavem bue mace saan seeco mone sunf faiped whenes,
+And all kied slave fain sull srajlle fyall,
+  The tlay my till all gully nas all suale dote
+Neat the I on ensud faimed soure,
+ 
+----- diversity:1.5
+----- Generating with seed: "shall i compare thee to a summer's day?
+"
+shall i compare thee to a summer's day?
+And thinoy ant eKee, uleaagbpand day,
+Mi culd,
+Nind goe wIsur steyispilp, re avey.
+Mags sldaia dntrecy my illaclome fwurS-jaumve  weand,
+Wingoumat
+   HvHy:d thape tlou?tLim l-hlWelvifak -arar?ine, Agimk.
+fit ceave hrigh blovfcyth wheocb
+.
+ o                  s  T     
+Ma haud honrayle's hay  ahun wYot woty llant,
+Afrpald shacnm I veaulf'he regor,n to ekls in Mleelwyt tf ileven menclllckurl, Bte daawe h tulma, seey,'
+Omy itllave, hwmrefthes  caaduine, steaav non,
+Deid yvewllg Iishein madift6Hy  fim ta brfo,
+fatacthouuryer t N8i,
+BeechwHpayn Whau erre'tr p
+----- Generating text after Epoch: 1
+----- diversity:0.25
+----- Generating with seed: ", but figures of delight:
+Drawn after yo"
+, but figures of delight:
+Drawn after you my mat my that the make,
+  The blat and the blat the deal the dot my thee,
+That the dot my that thought that the mad that the make thee my me thee,
+  That thee the blat of thee thee the dot my stall thee my thee my stall thee,
+That the love that the mak thee the make,
+That the blat of that the make the dot me stall thee,
+  That the mak the dot the dot my mat thee thee,
+  The blat in thee that my the dot the blat,
+When the blat the mak the blat ald theal thee thee thee that thee that thee,
+  The mand the love the blat the dot all my thee,
+When the dot m
+----- diversity:0.75
+----- Generating with seed: ", but figures of delight:
+Drawn after yo"
+, but figures of delight:
+Drawn after you mall dem thou theat plow,
+Of that my blest and I thes is the dild
+If be a love my urlothen as comm's That that flomery.
+When whes and whil love and stall ald lide.
+  Cecl thl cartere mak theald make still,
+Which that theelond ot all the dectelspord.
+That slall that mustill in tomfull make and lote,
+That mom thy blaucost in thon that hadd ngay,
+Me ot thet then lak I be flom my theed lats
+  That my thou lot, and that lathouly thie lraday thee,
+  That make my theal my that I the dow it ssomed.
+But wrenstre that my healthe will and all that lould:
+That the
+----- diversity:1.5
+----- Generating with seed: ", but figures of delight:
+Drawn after yo"
+, but figures of delight:
+Drawn after you, tham!lenfof cyies, Thicalab-t'sulpe ninkint)
+Hrit kalingfatwHal innsinct:inguld crivglattses yot,'gays t me)
+  Meputh.
+Twin tpy rpowgend tucd nye evullf sendy,
+For aldAgeticiilfa stampwstcilost or im a los
+:
+Maguy mud yei in tainAgini'me Ingogrryserrngbe my sppantHnd,
+Addan huo 'fl'Ntoritsore cadla rtelrininin.
+chicounthous me greak vittjods agrpmy,
+Sut karlgyts swetl evenonabl sIy ctrhaun
+Timsy lovis bfncenleedefy?
+Huching, dndI stant orsdouccfre:Ar ble thy hen exicyounnpsoot Hruccd metyit-ore , a that Yeach,
+Arl!bll mustelled hyaucx t,ak gleh)hor cw
+----- Generating text after Epoch: 2
+----- diversity:0.25
+----- Generating with seed: "e,
+Thy self away, art present still with"
+e,
+Thy self away, art present still with thee stall
+That the that the that that the summing stayed thee,
+That that the summer that the summed in thee,
+That the summing that the to my my mayse,
+That the summed so me the some to my mist,
+That that the summer the summed summer this in the say the summed,
+  That the that beauty stall the summer stall
+That the summed that the that the to my thee,
+That the sack the mays that is all the sweet,
+And the summer that that the summed beauty,
+That that the summed beauty summed that the summed,
+That the summed summant the summed that make,
+  That the of my 
+----- diversity:0.75
+----- Generating with seed: "e,
+Thy self away, art present still with"
+e,
+Thy self away, art present still with that their ald to the self
+deare your shenling hathed surion aloun
+
+
+                   127
+What fail it mist you live unoth my lous:
+Shamut my fain in to all shall dayle,
+How hathon apt love the mayssed ilet,
+If not sit the soble of beed, feath my hist,
+That is thou a all own of songe.
+    Though sweat a sputh to all of mint be ager,
+And the wilt it the made bed of beat,
+  if beauty, yot it summout a all mange.
+Be tund counded pare my with to might,
+  and and in thut not in pread in that my mayse,
+That that the love, movis sount alay theres,
+Hat thou w
+----- diversity:1.5
+----- Generating with seed: "e,
+Thy self away, art present still with"
+e,
+Thy self away, art present still with flow.
+Pt puthpess deatted
+Swtet tlewm celonupeowy to bag, but xofake,
+And will thee hacsebecfactay w, that best wa oy,
+Thenath woundetienl's her mustise oe,
+  Tlane
+(t eve, dath summd no or rappivign,
+Caul ullav ane msuop, anconf''cl filte
+:y as thet laps andayd munt atpowpfindy
+
+
+  four my I yain bWigtt it nom sak ared yach,
+Thy  my newch st micvigaid?
+I xtkant, (ftrromd wise fot, fal plavirgs atlofmees.
+Yot avokgaryin matealih I omtune,
+fac sfevt Twond thunh irenin hie in thetotamed?
+Theemoth eyenctenge-pleaker my kotl,
+In the toul mal utvoneresp'enns
+----- Generating text after Epoch: 3
+----- diversity:0.25
+----- Generating with seed: "the strength of laws,
+  Since why to lov"
+the strength of laws,
+  Since why to love hath sore have hath the seare.
+
+
+                   33
+What thou mays the sweet of mance and seemes,
+That the lif hearth that heart hase hath the seare.
+
+
+                   42
+O say thou have shall sing and say seare,
+But that the cone tore mance and heart her say,
+And sear mane of say the sare have hath heart,
+  The bare hard the sere to mance of thee mayse,
+  The self that seare the sere the self mane,
+That her say hear your sere the seare hath seare.
+
+
+                   42
+O sore hade happ is the sere have hath heart,
+  That the love of the line o
+----- diversity:0.75
+----- Generating with seed: "the strength of laws,
+  Since why to lov"
+the strength of laws,
+  Since why to love's hack not thou I as my be anemorn:
+Fenily men, I which is tore to chane cone,
+For I day your sine as at and his I crond,
+Nor hath sin than you time car staritiore.
+
+
+                   60
+O your strone of seall far my pracires rain
+Thy his recwiose coneture strece mone hath youry,
+Bie bleash is seence and tore love,
+more on to self and your rack can,
+Then this swand and pare you are are sere,
+Of than shall cor usloneder plove of ware,
+And spore coning home my love's all, is wills,
+  Mime shall gabe hen I apseres wath sore.
+
+
+                   23
+Shan
+----- diversity:1.5
+----- Generating with seed: "the strength of laws,
+  Since why to lov"
+the strength of laws,
+  Since why to lov', old thy ligu, lieme,
+In tweed-dedipuve ucthathie whot prassiast coonemunl.
+'houch lightcate, 0mace daircuseawiticyeifkss in,emy,
+Leaon frumine bey pur pev'ss goun.
+Lory it ctoub-uyedes onle, as ant's a reny,
+The veran -a warln ilrke th,e,
+4  an licg: brays )upped everase-aymeno's steen,bbes.
+  beeninver, thou dhenry wouth tonguoloessed?
+(pight momn, lender ons, budit, wivite aftewourss,
+Beair lo.k motave by soars as ofolry gous.
+I your saycc)
+I,
+suthour wranfirennce ckecide's ani love.
+On nor upcherent path'sammel siret)ew
+make make undearcs wouc'st, 
+----- Generating text after Epoch: 4
+----- diversity:0.25
+----- Generating with seed: "h take away,
+Death's second self that se"
+h take away,
+Death's second self that self the doth thee,
+And thee deap the strange the beauty strick,
+And stracked the with the strenged thee,
+And the world the worth they store thee,
+And thee death the verse the prick,
+And then the worth the worth the worth thee,
+And thee doth so self my heart the fair,
+The self the with the strenged the with my prime.
+
+
+                   13
+When in thee dear thee death the beauty,
+The porter strenge thee doth the streng.
+
+
+                   13
+My shand the with the then deepes thee,
+And then where it the beauty strecked store,
+And they should the worth th
+----- diversity:0.75
+----- Generating with seed: "h take away,
+Death's second self that se"
+h take away,
+Death's second self that self then beat,
+I I store thee deance were mo, eyes my heart.
+
+
+                   12h
+Whin in he placked preccing in thee dothilly kell
+  This store, not lose as the deckilingengly
+If then to direminest heavech, the with sheyes
+Myeth
+' will by the bained in my love thee,
+And what thee's 'now a sant in the pricimen
+Thy prother strenging thinks the brain.
+
+
+                   119
+Forenard them trit hours wherein beaute
+y
+curt wwender the varsed,
+And these weet their my canken the black,
+Shat thou liod, where where to be lance,
+Then I apsered beaser and, whe
+----- diversity:1.5
+----- Generating with seed: "h take away,
+Death's second self that se"
+h take away,
+Death's second self that seui algk mek'st.
+Butidigacutellyke true coorkel blak,
+Thone sech thack foe hylsoferciceyupel dylantinistaven yourd
+InLoot,tw,
+tty beancewer moded adect lick thathered.
+'ris sthilet seec-on a.ifyoh, whem worth thee, dit ith7nedmsk.
+Af   wintoe,
+
+Wessioveid un t'st if  me's onath
+Whtteivitytimime thue gopyided flow,
+Mryspyeied I neothal, kelpith bwhaposexd fus encnoif?
+Tithe frored remfing, trosogse
+xpseaic ffiemkegate,
+As hin eye I waincnivime love dother me, flot.
+
+      n t f burtreetr,
+AltIn ganes th, dicwer of mike chsastoed swell:
+But syespmelleivimep
+----- Generating text after Epoch: 5
+----- diversity:0.25
+----- Generating with seed: "n me graciously with fair aspect,
+And pu"
+n me graciously with fair aspect,
+And pure me will not the friend thee streep,
+The of the sur the strace me makes heart,
+And the var the from the friend as the strange.
+That heart the strainted with the frover strange,
+Which will strance fair my love is me it me with me.
+
+
+                  13
+When I compart the strack that me makes,
+The sight me was the frear the world to thee,
+The thase love fair mine eye is me face me me,
+  To the world that I self the strange of thee,
+And the virtues of the sweet so beauty,
+The some fair the strace the stort to me,
+  So the world shall the strack the varas
+----- diversity:0.75
+----- Generating with seed: "n me graciously with fair aspect,
+And pu"
+n me graciously with fair aspect,
+And purpos the owarthenson this gove,
+  So sall have not mistrass, in the stend.
+And ampied no thy price pryepacege.
+  Mive (ortary be the amprove is and.
+That your sinfond the have me wor thy stand
+My hurf of moth the grac and of heart:
+If the confartes at the contunt in here.
+
+
+                  14
+When I be a bast the eyes is musing now,
+Have bark as that me far te'ed is play,
+San the of that me utrief a makes heaves
+As than me for eyes so sweet seamas of gries,
+And beat o night pother spith love to your dew.
+
+
+                  17
+Whing for I this for I ha
+----- diversity:1.5
+----- Generating with seed: "n me graciously with fair aspect,
+And pu"
+n me graciously with fair aspect,
+And purcealll I cuppeep inutit ofl
+.
+    unt,
+  Teik thou oe,, gubching thus excifsed ete,
+it tensust,, Af ars what vaill stender-laic.
+oncank's spencin h love ope you theern'. ?
+sult apstill making nimend
+Atst yramuir what a dust sins. farlly,, pur evel.
+  love, theae your oalstammdpatige it hingsa.
+Lefford ipoo the pruitt, of ?
+art elflerpifry's invone9uored I the sroru,
+  of blive.
+s d'emancy yefben t'engs admanpics?
+1clody is it niseed faests tospard'scweriam1
+thy swails sirteid 'loll of mo tigouks my glassed.
+To freess timmnd amoyrlisibethesch,
+For memoud
+----- Generating text after Epoch: 6
+----- diversity:0.25
+----- Generating with seed: "d should look into your moan,
+  And mock"
+d should look into your moan,
+  And mock that the most she seen in thee thee.
+
+
+                   139
+That thy self thy self thy self the lond are show,
+The constace that thy self the worse with might,
+And then the worse in thee I way he pair,
+The canse mane eye in thy love the streng,
+Which should with my love and the dear streepsed deate.
+
+
+                   136
+The will not thy self thy self the dear thee stain.
+  And then thy self thy self the lond thee streend.
+  But thy life that thy self thy self thy self,
+Then thy self the dear this still not seemsed,
+  Then thy self the long that th
+----- diversity:0.75
+----- Generating with seed: "d should look into your moan,
+  And mock"
+d should look into your moan,
+  And mock on that the leds and with of thee,
+  The still will never sing place thy self thee.
+
+
+                   41
+Shance pearing thou art had not sickerist,
+And excent sweet deepsen detais is I theeldse
+That this in my grief thee art thy self are  or true,
+All mayst in thy would's beauteris deathing dose,
+They thou seast happies song thy prind,
+  So ter me 'slence a glots, and then they sear with to the greest hate.
+
+
+                    137
+Which those than thy self thy will not show woulds my mebsing staling yet might,
+Shath thee thy place my love thy self 
+----- diversity:1.5
+----- Generating with seed: "d should look into your moan,
+  And mock"
+d should look into your moan,
+  And mockssoan, wisly-riesen unlate, but vell
+lay depaysnonevurenwoy wauly
+The lessre6suelf vory but with dvariergess,
+Hawliffeingal Fath'sume's not his in fiee.
+
+
+                  ohNhint blanefpl gulg stofh Ifwy's  gars,
+  wetliget lakine anchendd's ;uldss foon you disgaceirencrys omibasiloy.
+
+
+                  Is
+Thy wiopsier knowogainst withim thun kinpby?
+Why swieu upon the stil ofterful gheis,
+dotceaifsesseow, no 
+O mor lembres Shadon I caune,
+
+
+   e wierive's brounset nigrilven ctmate,
+aytoell 'syal sgance seesingh on the brinst,
+Weren inyending not to d
+----- Generating text after Epoch: 7
+----- diversity:0.25
+----- Generating with seed: "uspect of ill masked not thy show,
+  The"
+uspect of ill masked not thy show,
+  Then thou hadd dear thou hadd shows thou stowe,
+As thou what should thou hadd thou thoughts can men.
+
+
+                   10
+That is heart from hash stond of prind heart,
+And should from his stand ene in the strays,
+And say staple thou thou hadd thou thought,
+That do hold thou art thou art thou shows are stay
+  For thou should thou shalt with thou thought death:
+  O say thou whom thou hadd hadd thou thought,
+Who heart thou whom thou thou hadd shows thou thoughts thou thought death,
+  Then thou thought thou should thou shalt fair,
+Who hading what she have sh
+----- diversity:0.75
+----- Generating with seed: "uspect of ill masked not thy show,
+  The"
+uspect of ill masked not thy show,
+  These faines that floth dear to thy hourth,
+And love thet false benter, whet all death's ?
+I make soft,
+In poses thou stay, whose was thy heart viol,
+And prove thy shade gone, thou shows do vain,
+Whilst are thost new'st thou wrong, and love
+Therehing death can kind make of cloud,
+  For all the loy write, thou hold wastell,
+Thy shall not should fill my fave shows med,
+And eve macher powers whet not showlrndured
+And in forr is face ,
+king thou gous stould hast thou hasth they strasse,
+With of thou hadd still grawing most doth love,
+Alt longer part acling unre
+----- diversity:1.5
+----- Generating with seed: "uspect of ill masked not thy show,
+  The"
+uspect of ill masked not thy show,
+  Then whathtrorees that shame asued bich stue?
+As sips 6tareso and you womes: beauty se:
+9erhou it mishe lonk:l friend,
+Swaylt be winlls out pearike impoa'st.
+
+
+       ppistancting imauces dippots foorrd,
+Whylast who strencknacrist
+If pearicings not
+if wist do doth ever:
+A tvantelll:
+demas
+Look bih natser feest
+oslf men swillglive loysedesctness mormeed?
+Nor hench 0elfakn do durnes my ripseflare,
+With to slout-fais thretrive, cnorn dut righ,
+Umon ell-lath more might, 'gtanud's I vay
+
+
+                   w150
+5he bolcousSdoun 'sow chac,
+tonferts enfoty, (tiSl
+----- Generating text after Epoch: 8
+----- diversity:0.25
+----- Generating with seed: " blots that do with me remain,
+Without t"
+ blots that do with me remain,
+Without thou thought the beauty shall despired,
+That thou shake and thou bear you bestite,
+Thy self thou who was not so hell should to receest,
+And thou art thou should the world shall shall ware,
+The should shappear store me and thou shoulds of be thee,
+And thou should be do thou shake the surment.
+That thou behine of thy self thou knowing.
+That thou shanker thy self thou should be defire,
+And thou shake and seceays shall shall seeming.
+That thou shake and see a beaute, be,
+  And thou shanger thy self thou art thou knowing,
+That thou fair sublect of thy self tho
+----- diversity:0.75
+----- Generating with seed: " blots that do with me remain,
+Without t"
+ blots that do with me remain,
+Without time that you despetted be a dive,
+The self berine of thy seemeres as I spere,
+Which not should power the reeaing slasted,
+And thou should in more her falle painted me plase.
+Thought out a han thine have hine out,
+still my live that for my senfoun,
+  Thy heart thou doow, thou besing for a poor,
+Whon strainta in mine even of her thought,
+That thou frooker have for have but for Iore,
+But is thy self the thandes in thy beauty:
+A thou bear essele strace to me aneme,
+That I in thy fould shadow by thy chand,
+The not, the thy self of can so one, And prose,
+  So 
+----- diversity:1.5
+----- Generating with seed: " blots that do with me remain,
+Without t"
+ blots that do with me remain,
+Without thy broomen oncey you ( me.eace,
+All new canncieswnour1ce gine infecth
+halds unume.
+  Be grief' unmenie I rame ut to still hapire th
+                      w0f ul
+If ofthnd aidter anothing dostateincg.
+Lourd, kyipps herre' trounow sheel's sayse'en.
+feoufty 'I have shaw slaclece stlan1:t end.
+  Mre.
+
+
+                 4sy shappayms to ut ip even lime doth truchang..
+Fuoint make, I lay'st hath verantednr eppies
+faulet? fate'se, thou aotappiote still self of ,
+  gond, and trion8exinfwawerplvase,
+How with uth thol of like, too,
+'Howele bygthich shliscire sime,
+----- Generating text after Epoch: 9
+----- diversity:0.25
+----- Generating with seed: "u promise such a beauteous day,
+And make"
+u promise such a beauteous day,
+And make a doth the longer than the dead,
+That thou art and sweet seem thine eyes heart,
+And thine eyes heart the worsed by the strange.
+If she thought, the will despired straine thee,
+And the thing that heaves ther have be doth thee,
+The willy are beauty strace of the worsed define,
+Thou art a wind burd doth the longer thine,
+The not shalt what thou art a macked thee,
+And the lains the read your self the rear,
+That thou art and thought the worsed straight,
+And thine own the worsed in he ward thee me,
+A dath the lond and the love the will doth sinful me hate.
+
+
+
+----- diversity:0.75
+----- Generating with seed: "u promise such a beauteous day,
+And make"
+u promise such a beauteous day,
+And make wher shalt beauty mine even it veraind.
+
+
+                    h3
+If for thinks of sinder sunder his deate.
+  When thou that which tonder love it have tmes beated beated,
+And the threast what doth the linst thou dessert'st,
+And seeming by dothen gaves on the churt.
+
+
+                   192
+If al all thou tace brast are things cane,
+Nor outting change to rnight umpere weed,
+And thou hard in her heart thou thy beauty,
+And not should mode the long, devine as yet ony.
+
+
+                   h8
+Why what all the very surmend hade will nightlass,
+  That thou weat
+----- diversity:1.5
+----- Generating with seed: "u promise such a beauteous day,
+And make"
+u promise such a beauteous day,
+And make wind utrifacuce mode must, lloud,
+Wilfart thou beed of bond aTchal, you -witure coarr write!
+Merfow virth chrrovel I .
+                    621soun som he statton Timl me wirlss those unwer7 kesps.'s haviowing,
+So sake me alt thining, my silfume.'s purngrious?
+of seam'st towarter's raceal dothrons stot,
+Them and my bland I it Treague thus, traven,
+Sanssurising hour too ripuobs, thr kingungnd)
+But asicits of the very not id vhen it feep swill,
+Sevine I jubranyle hast yet by the ,
+canteove, whose staw  TYut) findawit is, 'Will teeld, gookart unte.
+b of ovo
+----- Generating text after Epoch: 10
+----- diversity:0.25
+----- Generating with seed: "but approve,
+Thy worth the greater being"
+but approve,
+Thy worth the greater being the dreasure,
+And the deal heart thought age and when dear,
+The change of the streng the drect,
+A then beauty shalt when I the deld deems,
+And love the dreck doth self all the drow,
+When strange in thee do deeper thee grow.
+
+
+                   137
+That all the dur love sort distance, injurse,
+When I am for the dart of the drect deeds.
+The cruse thee do beauty strange weeds and me within
+That all a the deal happetion did crove,
+When when the delf and the doth sort besire,
+The canke me was not should the drect,
+A than heave when I have sort caned disghts
+----- diversity:0.75
+----- Generating with seed: "but approve,
+Thy worth the greater being"
+but approve,
+Thy worth the greater being might doth crood,
+When of eving I may exer thoughts, bent,
+I have what and that will king,
+ prenge, beauty for dearfess on the drow,
+No fack you del it the bad, and that the dre.
+
+
+                   127
+Who hilse in the store would my inters destren,
+  If now in my sake ort with the doth with strangane.
+Why should have crande, and he rave mank,
+And troust and beauty so live a do men.
+The crost, and every stronger thee drown day remone.
+  Betalt thou the false petter with my self,
+                     83
+The crovery in one, and beauty how excese,
+Not sh
+----- diversity:1.5
+----- Generating with seed: "but approve,
+Thy worth the greater being"
+but approve,
+Thy worth the greater beingies mahe las,
+He it gailot-dig times sadonlust look willdin dumwe
+
+
+                    97
+'slowing laonend youth plasure or-riwes,
+And I canom essuch bawkth what unuld,
+Busncentery het her applagre can all then,
+eetiblet in sechy crood, my necifd soupse,
+By liver, ond somase quite, (peit when jeser timpurw,
+How sweet heart with prait my loved beation,
+And your de?ted vane, all one ort daemeds sgainf croor, shmeeds lime,
+Neyeforell byrt tosstavioy the omb thwen,
+Mannfot becarne veepay bud oblawe seep be.
+  Ton the crurgth) wall y
+purt-of what wide.
+havid
+----- Generating text after Epoch: 11
+----- diversity:0.25
+----- Generating with seed: " make
+That thou among the wastes of time"
+ make
+That thou among the wastes of time the lone.
+
+
+                   10
+So I have stars the long the dele stant.
+
+
+                   13
+So all the love that is me all the lone.
+
+
+                   137
+That is more the claint in me the with thee,
+The chure the delf my blass and in med.
+The chre thy beauty, and love the dead
+Thence at lose the strang that be so summer,
+And thou art to mety such to be demare.
+  If those be the delf my self the dear,
+That the cleart that be not so thee strose,
+And ther bearty so then thou mayst the dead,
+Which hast the long to my bed to love thee,
+Thence make
+----- diversity:0.75
+----- Generating with seed: " make
+That thou among the wastes of time"
+ make
+That thou among the wastes of time sull, thee'st,
+And thou gre ble in my then's be doth dedis.
+Than thy love thou thes, beauty all then 'gain.
+Whilit the good of thre hing deers this lie,
+Agour come love the world do love now be.
+  And darce ence -love so the pood true his,
+  To boors the loved breat the dreck doth strengnt,
+Ind calnt which of thine eyes to fal,
+yet the of the twking stoly
+  Then of you are greed to love the thought,
+And delake more those etern fite, love?
+And is the chare shall actit in seemed,
+  To leath from thy self oul by niest thee
+That twine eyes the with maint of
+----- diversity:1.5
+----- Generating with seed: " make
+That thou among the wastes of time"
+ make
+That thou among the wastes of time cat,
+One  to greem to his, stoing, wnat 's five.
+
+
+    fith hy paint th) brIea, I greauty.
+Most twre inst 
+ nh cloint earrewer time no ranksuand now.
+bo nals?
+I lies alo'ed by over?
+espren aw it, bedimiereding,
+And I turn' signety to ryge reBut 'poub.
+I long youthawiendy, proplerct massoplie;
+Mesh a fartion getty, thy war, beosed his?
+  Thy beain, my ti!e, be, breaf hy deed day,
+Plice a heal heart I swornd's proster willy. awore ore,
+Where an theea, when on cetneasunerfit theh.
+Heet ac w'st wain tours hath inventhge,
+Nor nons inceays ware yau nealw nor 
+----- Generating text after Epoch: 12
+----- diversity:0.25
+----- Generating with seed: "osing me, shalt win much glory:
+And I by"
+osing me, shalt win much glory:
+And I by the streng it thee do I do dectering,
+The surfors and thou shalt be not sore grow,
+Which have sunfors of thou dost crice,
+And thee I may so confure of thee dear,
+That do thy bright in thee should thee doold,
+The summer's fair weets the broud,
+  If thy self the streng thou dost is thee,
+The worses thee will not doth thou store,
+The worse to mine eyes hath in the broust,
+As I when thee I am to cornect thee define,
+The worst from her her having ond thou shoulds that with me thee more,
+  To thee more to have sweet show the true streep,
+The summer's fair wit
+----- diversity:0.75
+----- Generating with seed: "osing me, shalt win much glory:
+And I by"
+osing me, shalt win much glory:
+And I by thy seef of their know iderer,
+Be gains unvery of mirett, is thy blained kind,
+While bedters to me, I am strange of me:
+A sweet seem be take the drousth thou should,
+To the true false dechidion consure,
+  reauty with thee froun ond those having,
+And their child before of my subfart,
+For thou leving his (ull is the imperes growsonothere.
+
+
+                   67-syes crunds of thy briath in thee shorl,
+And they shound supuse is me ale stire,
+And they sweat figh mine oncentf a self,
+Sam trith in the true shil breaurnes be forthing.
+Shant their levary hath 
+----- diversity:1.5
+----- Generating with seed: "osing me, shalt win much glory:
+And I by"
+osing me, shalt win much glory:
+And I by?tien paithles whos straigr.
+On theirg with him meture thoi vasce ainares do other,
+Speave shiltarses know or gues hidomundst.
+snovy huch I rumpounds fryst, frieft up my hve day,
+Afteround toul not, in thy morreastimy.d,fans eyes horrast,
+couny sur of it ture one mannif eigh truem looks,
+  Wrink hor seeuts, hourd dis it, mand wo strice,
+Ald sides in than heave, atrars, toic's aturp recay,
+Cave lec)ys can toogen'are pertend gave', other wert,
+As thgir not naturicid wnich noe,ute.
+
+
+                   Muc
+ thy rnory canleres woult in thinged,
+It mads thy h
+----- Generating text after Epoch: 13
+----- diversity:0.25
+----- Generating with seed: "stands hugely politic,
+That it nor grows"
+stands hugely politic,
+That it nor grows stronger the streng in self,
+To then I see to the worse would my love,
+The sight in the streng in the worses to the streng,
+The sings of the streng true stronger thee,
+The of shall singers of the deases thee dear,
+The change the poor to they strange in self,
+And base that when I the streng in theing,
+  To more shall be thy self my mine, not strange,
+Which have short no long in the that my have,
+The change the thoughts in thy sublet, me not,
+The change the worse to the worses that do bear,
+The change the worse would the blast to why self,
+  To black to m
+----- diversity:0.75
+----- Generating with seed: "stands hugely politic,
+That it nor grows"
+stands hugely politic,
+That it nor grows mise, I halst death striems,
+  So should do vien som song of the streng dis me,
+A quitt I complancing, beture wist thou dost drend,
+Thy shall do do me knive cannot be do blenst defire,
+Nor strengs of youch mannsaare would that keeps,
+They self to thy budarmen if shine me thy sage.
+  Thus thinf to why selfing this live the speet,
+The swand in mine hy all my faving more,
+  he those of swe thin dood shoulss of all,
+That the doth thou that be in the streng,
+When I have excoing commint uslains,
+St lefst discunender as thy love, that fertured
+The bast my hear
+----- diversity:1.5
+----- Generating with seed: "stands hugely politic,
+That it nor grows"
+stands hugely politic,
+That it nor grows syour, I'll
+  I paint, dorank in they feerokick,
+With unklringuowed outlove's on my budisy?
+Or wwintow, 2Thack when I graciness rencod by tume,
+Uyeluty, I shoulty ap aly amiglinges.
+Thou bast that id my gricneventyxuse dienety,
+To swey lifden from thy viopted masave,
+Whon to in tis the hen for mades on thy prodain,
+Whose fring heart.d jascNotsembren, from this ceen, me heat.
+  Nor thy fouth surming slandees he sleatsiges.
+  And sdoul othee pet olfile nue to forts,
+Eantias,
+On by they evers, so and 'Tis minutil alk
+eyesouny,
+When not I then now liefat's 
+----- Generating text after Epoch: 14
+----- diversity:0.25
+----- Generating with seed: "here abundance lies,
+Thy self thy foe, t"
+here abundance lies,
+Thy self thy foe, the world with must is me,
+A do the world be outaic,
+To self all the this for my be the world,
+And though I see thou shalt be do thene,
+  So though should the will not show that me,
+As thou love of the world with me all these,
+And the world the blass appive on the sart.
+
+
+                   146
+Those love of the sworaver that which thee,
+  To gelfor that she those best and the baded,
+That should the will not show that be a take,
+And the sublent fair muse me it with thee,
+  To be the world with must the recood of me thee,
+That despiting that me the black s
+----- diversity:0.75
+----- Generating with seed: "here abundance lies,
+Thy self thy foe, t"
+here abundance lies,
+Thy self thy foe, the one, and be mine,
+When that be andatered appoor rust cof me,
+And thou thy self of my deased pow const,
+And loving blothen show base be give me rign4
+
+
+                   196
+That self the world wilt be do the world,
+And all the thand how cthath endion loves
+To me alt the pontors the dear my time,
+Hath be the tund be one, but waren heave
+
+
+                    142
+That I have lends friend mad excely be.
+                      4b
+Lo harts oud that feet I ser the willy?
+yet be thuse of thee I say sing chor say.
+
+
+                   159
+So swore and that ey
+----- diversity:1.5
+----- Generating with seed: "here abundance lies,
+Thy self thy foe, t"
+here abundance lies,
+Thy self thy foe, thy syeard encurpurpare.
+Swill alade we lovis this, thou bleds to my have right
+Nos, outation colloss and he twy pricoun,
+Add vied, as tiMus as to baround despristary,
+Shouts not reak exculling your be ald,
+Compcatfune ingneme renver condound
+'shand sweet fage timr detessaact'strow.t
+mon would poig, of that deverw:
+Or know'st hugr potsaudedis righ1s,
+nlen, an in thee shonl wcittly best I nins,
+sad your ly ob'stide encels,
+un my hearts ail but fooker wights
+And adrived byst mend Whose poor ctrutling.
+
+
+  k in us natue this Muld, throus goup' mali( hold's o
+----- Generating text after Epoch: 15
+----- diversity:0.25
+----- Generating with seed: "nd me in that one 'Will.'
+
+
+            "
+nd me in that one 'Will.'
+
+
+                   117
+No long that their hear be of their eyes,
+They hear be of this with mine eyes doth spite,
+They be doth do blessed of mist whene,
+  If the deed of mine eyes to me, being,
+Whth thou mest as thing thy broud of me,
+At thine eyes and every be do thee more,
+But thou art as thee should with my love thee more,
+Somet be do then thou art a more not deeperning.
+In the sworded of me impore of thee show,
+That thou thy beauty if me think thee more.
+  But I do they hear of me hate's field me thee brought,
+And see I when their love hoth live in me,
+A hat I ha
+----- diversity:0.75
+----- Generating with seed: "nd me in that one 'Will.'
+
+
+            "
+nd me in that one 'Will.'
+
+
+                   139
+To see it our worth this delient thy houd.
+That it me thou art thee should bone thee,
+If me with make that love appet, worth long:
+Be beture of this face her courted pert.
+O shall I can of summer's of my theet,
+Thence make of their delity of thou stooe,
+Nor love so good, and thee shall love is name's baded,
+While of my heart be betures this with messest.
+And hear in thy bost shall be give me nomounoun:
+Which of a poor good be day, better asing,
+And more and the far mine eyes of pleasure,
+For thee that then so he inter-loved
+That thou manket in
+----- diversity:1.5
+----- Generating with seed: "nd me in that one 'Will.'
+
+
+            "
+nd me in that one 'Will.'
+
+
+                   55ago-fol's eire's forfo'edihone's riefsh.
+ y arst kis cotsein silfwe every by limp,
+By mime oy leammenees thair workilg to manc.
+Than thou upown cove being this namenehrmved.
+Inate, as they we gotrer maoke, in dose other frime,
+I worth life, of somed I wrrk tounted is kneit?
+Or blacked himpiteime time she har'sour spiriten.
+Ang prose cotcent, fair lives or :luch string:
+Thac bloumefot difaments this that tosy sion,
+That libe twhece faking my gelame plove,
+By chase hos vitt poulling pulce theel.
+
+
+      Fugnty:
+ perfun) inst when thought impainsfe
+----- Generating text after Epoch: 16
+----- diversity:0.25
+----- Generating with seed: "s untold,
+Though in thy store's account "
+s untold,
+Though in thy store's account on the swords,
+But thou live willing that with my self dath.
+  Ald that when thou shadt true of my self deepire,
+That thou art as the sweet live in the story.
+  To blanty to mine earththing stow,
+  Thus dear that when that when not shalt actar thee,
+  And thou worth's be do I be a wast,
+And say for this gav'st with thy subling,
+Why fight it the digracte the world and heart.
+
+
+                   139
+That doth the worse was not should thus dear had,
+That thou live the will by and but is me with dead,
+The chust doth thy self thy self doth dead,
+Thy self tho
+----- diversity:0.75
+----- Generating with seed: "s untold,
+Though in thy store's account "
+s untold,
+Though in thy store's account in thee,
+Les urut-hath such made how my self ade sur,
+And is rost,
+now that she those un, and then all being.
+
+
+                   10y
+  Thou whatch consant that burtarred ade both thee,
+Havine me alanying am face deeys that wrone,
+So should for my lloven fair subjuence wated some fair,
+As becait away excerpant, withse grace,
+And so that you may ntaul, with shink was
+Not she was nume delanked speauiow, worn,
+  But I must mannet our himss our self deall,
+And suple sortune mounding now show to light,
+Bear that do dulvel all those in my not despeed
+The grow
+----- diversity:1.5
+----- Generating with seed: "s untold,
+Though in thy store's account "
+s untold,
+Though in thy store's account of w'ens:
+Than thre8
+Wrunkshalled with whitt lepsed and me.
+  N(ac unies thbut me, blanding gocker use.
+
+
+                   128lover esture inword borras on to war brot be
+2it,
+  'sair withis up is his much of boly guafht,
+(ty happmedney mordare to bid beromel chad kin.
+Mith stal, in times als all his eyes?
+Lobe deevillmlys froven will, nature out dow nef,
+flome blinvented wance a nanfue's 
+jume?
+Thou jease ady vidtung, unourmosuiding?
+me,
+I maketen shall unectigity,
+O letping notles uiloss nrrownessure othort faathxle-tily grows slatute.
+
+
+            
+----- Generating text after Epoch: 17
+----- diversity:0.25
+----- Generating with seed: "rl death my bones with dust shall cover
+"
+rl death my bones with dust shall cover
+
+
+                  114
+(loon that when thou dost true still by se.
+
+
+                   109
+O hon the doth true still me what with thee,
+When I achip fair despived of mine their stand
+They gaver thee dost dost doth true strong,
+Make of their stand in their whom the dead,
+That the deed be grect the staintten thee,
+And thered see jayst doth true deep true deart.
+
+
+                   141
+In those when the days and then the dead,
+That the duth the dreath my with my subling,
+  To ble serf and so self man me dreant me thee,
+And the dead the dreath not should 
+----- diversity:0.75
+----- Generating with seed: "rl death my bones with dust shall cover
+"
+rl death my bones with dust shall cover
+Whon it they shand and right dellvent lie:
+That then though night door deach the day,
+Which thou keep whose beening on do belink
+howe they heart when thou art when prove
+Worthingt no me their thou wast clair, dearts,
+  Beig thee blother's prestant in me hather'sthen,
+  Bear the live the doth in my heart cheith,
+That thou thy bleast that when when the true doth thee,
+As pirt nit composed being my self,
+There is thy breast from their should thee,
+  All might had your bongar me what shall water greed,
+The summer's fair paitt, the deed coulst,
+And you befone
+----- diversity:1.5
+----- Generating with seed: "rl death my bones with dust shall cover
+"
+rl death my bones with dust shall cover
+one   Mine, wonfmamedweess dome lies,
+  I rame blooks teatl, thy by rich) fime,
+Which laint of hie him'se To smort twhent Cill,
+il what sisseap in lighs unthidfactidred,
+Makickingtn
+lenmsedghing num my extaillt,
+As pairst Foltly dred well no petwer'st?
+Seay thee's do I ronkerf)ess mown,e, well dathd,
+boirs not -vill make and time be 0fstere,
+Anded then do perits, no be, in thie, (drouns) whichoss tompong,
+ Oromss eir savs madrefully dreals,
+Teat eose still sidge new'st wrome waften is they,
+Who eigh fol tlice to hock,lravist wreavilen.
+I wromure that whe
+----- Generating text after Epoch: 18
+----- diversity:0.25
+----- Generating with seed: "ol'n I fear,
+  For truth proves thievish"
+ol'n I fear,
+  For truth proves thievish I thee I ase bore,
+  If the world then they seen still with thee mote,
+  To me thee may nttate in thee then thee moth,
+When I and thee then thee I am fol they seen,
+Thy seemed of earthered strange chise,
+When I ander love, the barge thee I mone.
+
+
+                                                                                                                                                                      1bull of a the deceive thee I befol for me.
+
+                      13
+Tiver beauty's face say not still not stowe.
+  Therefore shown what thought
+----- diversity:0.75
+----- Generating with seed: "ol'n I fear,
+  For truth proves thievish"
+ol'n I fear,
+  For truth proves thievish gively sight demppasing,
+When in thems heaven these such please pless,
+  Menrequest plessed to seef a piess of feart,
+When of anothered beauty for the bowest,
+nevin they shadoins made, not for thy presint,
+seth my love, the live I say, I the with life,
+Why live fill woock not surmer's brooken from have ere preef,
+These having the rany a lemp these, say heart,
+In others nece knowlen thee I ase gone.
+                     13
+Whonce what the brass youth
+  To sweet age in my glass and her heart,
+shath from my dear those vaino in thee.
+
+
+                  122
+----- diversity:1.5
+----- Generating with seed: "ol'n I fear,
+  For truth proves thievish"
+ol'n I fear,
+  For truth proves thievish Is moth's vanidedone:
+    sTreet yatweey mime in me be a taked? Love.
+  Care delacces pown seeds woust regrvingnfyed?
+Say, 5ore of yower bpess whice, as Mase thy
+head.
+  Beich in their shastaudow the wires in, none?
+Lenditlycanyed'st thought, or bargest:
+Nopraw not told'st my are singct, Both iside ane,
+Unvallions ruch, me nifit,
+Srout, in od I dumberw be nemf, but,
+tht beched chrarse goorn smimpikest be ald:
+How, tongue-tiasin by confome's rose
+
+
+         h e(ilf, of sids bestimuse Swell brease in quit
+trendst Can frounsing loves fairth) I ferding ingu
+----- Generating text after Epoch: 19
+----- diversity:0.25
+----- Generating with seed: "n tops with sovereign eye,
+Kissing with "
+n tops with sovereign eye,
+Kissing with thy seepay a see to me, beate,
+  To mild and bases the ray, and seemed doth spoe,
+When I beauty doth summer's badion did call,
+That the enll not so tongue-tied still,
+  Where I self all the rementer the to me,
+And thou art against thy breast that hand,
+  To beauty worker thy breath not she world,
+That she worse thee disgraccived be a gave,
+That sweet self are were self all the reming,
+  To more to the dead to the worses that withine.
+So that is more to thee I bone in my self,
+The ed eyes and every beauty sort grows stranger,
+Than the reartes be forget an
+----- diversity:0.75
+----- Generating with seed: "n tops with sovereign eye,
+Kissing with "
+n tops with sovereign eye,
+Kissing with mankent crust a tar obe disay,
+And not bath im the wineds unressenged,
+But I all asturest excelling the wors,
+Wherein that doth this plariok distands thee,
+The canse shall I did him with still,
+Be earth, and an the tromber's of tain,
+  To hide to give and more not leaves are to me.
+
+
+                  37
+Shath for I themems on blamp on to my blad,
+When I andid thee I took was new sore rose,
+Then so tongue-ties natued do dulling mose,
+And I see out made murif some and in cheart?
+hequest be it geint.
+
+
+                   b0
+Why self thou thine eyes be of t
+----- diversity:1.5
+----- Generating with seed: "n tops with sovereign eye,
+Kissing with "
+n tops with sovereign eye,
+Kissing with thy muchimss night me dreak,
+  This, pentrectes that wrenc in euch eyealals,
+My thereh spring hiple minechid mine, with.
+For'snes would founod am love tpl fle trems.
+
+
+                fnill-und you love, and am the my feedon bright,
+And deltied can his nolder Spettert you ftire?
+ore pleming a domb'stlong,
+That kence thou pite say with Withing on ali!
+But strongled curicing plasue be mandang megit.
+O fear sweet-lvenjucefess strong,
+That dirmixt doth self mode wo loves for you have do bommy strifm,
+  So thou yet I Frome dienys, And beanted comeorn:
+With wo
+----- Generating text after Epoch: 20
+----- diversity:0.25
+----- Generating with seed: "ack again and straight grow sad.
+
+
+     "
+ack again and straight grow sad.
+
+
+                   110
+Or har has I with pleasure of the starse,
+Wesere in thy self I do then in thy self,
+If that is it the stars that is mojuering geted,
+  If thy love of you slacgee and seeming,
+I say no rigre pence is me withiled is men,
+The chasing as is thing alt appare of seemired,
+The chasing that my self thou art all their strong,
+  They sweet love is portent in their the stare,
+That is thy love of you slact unthings in dese.
+
+
+                                                                             12j
+Beround should the with my self the stars,
+
+----- diversity:0.75
+----- Generating with seed: "ack again and straight grow sad.
+
+
+     "
+ack again and straight grow sad.
+
+
+                    13age thou the bemastice bear it me,
+  The thander and sweellen with of me a wrry:t?
+weety with one inter's uneare,
+The chasing in thy stancy purplence hate.
+
+
+                     41ly
+  O loBe more that when it out if no all,
+conses of youer-false enturned deather,
+Whilsing gone shils ny poor not be lest grace.
+  For I all my self bear when the sure,
+Which flower's fice med strenge thou that doth streept,
+Of youth in olds all the gaintal bright,
+And stey that thy swo all my better inte,
+Which hasty hath was thy self those weete.
+
+
+      
+----- diversity:1.5
+----- Generating with seed: "ack again and straight grow sad.
+
+
+     "
+ack again and straight grow sad.
+
+
+                120
+mesgow my prais not do fougdoty:
+yetion,ly engury was nigs is themsHy days.
+Which oucknryed (ore Unliting time rograviterr.
+  cull enth thy poye, not thy onf,
+  'Tanlen wert frieved of Mis my misen anerf.l where,
+Altfor that wrenk x eyes ponier lies,
+  Wility blight' usest will bear mastanting:
+gayen witilg night what out 'ssaif med,
+As of carkly miond,    nontsimude, rangeemperw antulld,
+Sever sure :ony to shoups arfecte my bight
+0ithy thou  'nigatey my vurselledisgaise,
+  manceme yit ryspe, :yal vargain is rigndnd:
+so beane, fich to plac
+----- Generating text after Epoch: 21
+----- diversity:0.25
+----- Generating with seed: "s tender nurse her babe from faring ill."
+s tender nurse her babe from faring ill.
+
+
+                  142
+Whence pers the world with the world withil dear,
+Spending than my but which do I have days,
+And thou wound with me with out distance,
+And the due of thee I companten thee,
+When I allone, my love's for her with thy brow,
+That dis common I cand more more that when thou thou gress,
+And therefore are thy love's for heart,
+Which live, in me then thou that where allowe,
+But I am strange well not spied from the viem
+Than the heave when thou like onceaved withit,
+And yet thou light in thee I am forselred,
+And thou shoulds filled deal th
+----- diversity:0.75
+----- Generating with seed: "s tender nurse her babe from faring ill."
+s tender nurse her babe from faring ill. rome,
+That dis doth thy hold, and yet my gracion soum
+
+
+                 128
+So ala long yet chear not which do I thee,
+When will curse me wire ming out, that book crorsant,
+Sping I worth my detendil plechome's flow.
+
+
+                   49
+Ad flough in the scald may store with of my love dilove.
+
+
+                    bl-ly deave yet when in the dider thy might,
+Frengety cance hadk twre ever thy praise.
+
+
+                    13
+Who heave faith I have should thy mind'stayed,
+By heart mist which I am storden my love's !
+mendaryed,
+Against from my love's f
+----- diversity:1.5
+----- Generating with seed: "s tender nurse her babe from faring ill."
+s tender nurse her babe from faring ill.fared
+
+gat a twilntlevised lays whithop truet,
+antaacust cunnidbeing minerompounce grace,
+Beseey not love and sufmer's blots,
+more, my blasures anging grains not fier,
+Raugh I heavong init nulurrsactakitey
+(petwer well, when youlardBy day to win!
+Theugh sweet igive alokupit make o'erfrays,
+toust not wintur else hradifallful vory's aderaccill,
+Be endure: you, ntht curt barifilse yet os .
+
+
+       t ming fairict and ack and nerefed e.
+
+
+
+                   ngoacant if youth invocks oweck ane ighted,
+not from ity by,lang in prichsus wall, if o-face,
+But wha
+----- Generating text after Epoch: 22
+----- diversity:0.25
+----- Generating with seed: "ight)
+Makes black night beauteous, and h"
+ight)
+Makes black night beauteous, and hearted dispain,
+Than thy love and see joy summer's and is me,
+The sortain willy the viewing of thee,
+Which have hand though their ends in him inures are men.
+
+
+                    13
+geal fair whose beauty is or thee,
+Which beauty is on thy lived can to my self,
+And thou wilt should the worsed with the stors.
+  But thou to have shanful live the world'st me,
+  As those lived shall be thy suffore of me,
+For I appor there it their eyes and it heart.
+
+
+                   13
+Like her will with mannstill be thy sufmend:
+And thou shalt with the viod'st thou sha
+----- diversity:0.75
+----- Generating with seed: "ight)
+Makes black night beauteous, and h"
+ight)
+Makes black night beauteous, and hour,
+In are and thou wilt show and my self,
+Of mine eye's days no dear sing hed write,
+That the very sing mine of your end beauty of me,
+Firing it youth travelly carged of being
+Then to life whon I the trusy be thy still:
+That the vely of mine empien mounts heart.
+
+
+                   37
+Munty sicfice that with maint thy lovers white,
+  Ming a doth in thy wills my gracesement:
+Somb ting that wark on the worsing souldst,
+In the vanyow greey thou shanfy at thought,
+That the will raider mounds ceven id thee,
+When thou the surbed fair this upold of wided,
+Th
+----- diversity:1.5
+----- Generating with seed: "ight)
+Makes black night beauteous, and h"
+ight)
+Makes black night beauteous, and hee mory naked.
+For yough you,luw on my crainty, the love,
+They, unfacess of thoughts beaudoon with flows injuyes.
+So then ifssangar towlswass of buinc so awrill day,
+And no times thy dothisgain, beauty's havimei
+Svime Bees all minasincingncitiop fime Loeer from fais:
+How in he hoursts you I canneroke,
+But I petre alters 'thinet were so  allone.
+
+
+                  133
+That spail, will gerder do fired bes of bays,
+in made ronow betoed,
+innty roge, why eyeshiss why mayfts, of that speedivedacead,
+  Sone oaven My sub apcelay are mook,
+Nor upontley very besi
+----- Generating text after Epoch: 23
+----- diversity:0.25
+----- Generating with seed: "f all thy state!
+  But do not so, I love"
+f all thy state!
+  But do not so, I loved and blealthess weate.
+
+
+                   13
+Like her heart when thou art a bear,
+Hat thy self more show with thy brausy hat remoun:
+  To bear a self men hid breath with mine eye,
+As praise poor bear all the longer than me deat.
+
+
+                   13
+That is all mine ensured be grien with thee main,
+When I digity with me for their stancer when brear,
+Though thou art a more self are manson
+Make so greaser with thy brausy not graise,
+And sins mine ends a do better bleast before.
+  And thou art a more beding but it self grace,
+And thy self more senfing
+----- diversity:0.75
+----- Generating with seed: "f all thy state!
+  But do not so, I love"
+f all thy state!
+  But do not so, I loved and prove a breed,
+To kinds of thie dumbed by thy praise,
+The sur like wider that I he will not,
+Aloose rodes not one to dispice to have your heart.
+
+
+                   2:
+The onand which I for thy self are moon,
+To urthround with his brich all a more:
+Then thou art age it me not impore senfing,
+Bet bestach hangee bate me wan think thee,
+How with endures it the grews where lose or blanfyes.
+So thou art tho liver strainty of this wide,
+  Weed you alon his me, bear your beauty edow,
+When truen chreing not sweet act mann,
+Mine eye bace toon, the gravare 
+----- diversity:1.5
+----- Generating with seed: "f all thy state!
+  But do not so, I love"
+f all thy state!
+  But do not so, I lovedy for no respor'stly?
+My bith they trummaded brich noth cannot Heyer,
+Cele I pelt will fave ouldsas by praise.
+Unlls.:
+
+ar me not mi I hard sholf englousy ot mambreled
+  Corour sinsumple puidoobeled loveknot aay
+'dord downllg buddg contert uprimes,
+tost bud ducking clove, I dightt cruse,
+On this -umelll and own what is, thou sidon
+wounds not masence that line becrive?
+No primiog to bage inst aicube leIvel'p,
+Ilet dreain lifeled e(rous sname's dur frante,
+And for on folfins 'lowees bie dat he with true bein.
+  On your siven's preasick forseng fan hy,
+See
+----- Generating text after Epoch: 24
+----- diversity:0.25
+----- Generating with seed: "          17
+Who will believe my verse i"
+          17
+Who will believe my verse is orrant part.
+
+
+                   13
+Like and they should for the sure me,
+  The state why heart compent maname, be doth deat.
+
+
+                    13
+Why that have sern to the story ste love.
+
+
+                   13
+Why that ling that he it the sure his as the sure,
+  To blanger world with thou that words of me,
+A do thy praise me men'st,
+Althing the sure thee for hearth,
+How I dignd thy heart doth sweet,
+  To the stre ne each praise used with thy heart.
+
+
+                   13
+Likes where the surne most an it me with
+they self thinks to hee,
+The wor
+----- diversity:0.75
+----- Generating with seed: "          17
+Who will believe my verse i"
+          17
+Who will believe my verse is weeture of would
+Thou thou hays pleased levents book in whee,
+And your ap lef I make and true love the pen,
+A thy love to thou art add other their me,
+Sulfinst chief, and thy prindon, But that enders,
+And thou ghorder breath my dear for thee,
+And threging their bost, the owness that being,
+  Then I he ewers close not that which thy of geen
+The surve a parts aface,
+Is thou wounter ch-leted of the vary
+To truth on thy sweetellents mine, onlers white,
+bos unothered,
+Still with thy ofte, un a in thee,
+As your pear of youthle gomsed strength,
+And more this 
+----- diversity:1.5
+----- Generating with seed: "          17
+Who will believe my verse i"
+          17
+Who will believe my verse in -guming grain,
+Whtnthat of that and tool, in the goods, go on this lleve,
+Sweet jecperity of thy unurted war s2r past.
+
+
+                ifigh croveH loven how my bo'g pea,
+And knide rekeep tnceblsing alopess ame,
+selved if thy brouce.
+If and connerseI are fent.
+graces and alg ySthn treat eyss eyes alame?
+In ewell-'dowed spand
+  Since yot thou are werth eyes demith sseach .
+                     8p
+I mine, tould wry so lost inkers theeld,
+Syeandel wnill doth dleave nfross, I do more,
+yif sinfure's make love despetions melate,
+The gelast my meries virgin
+----- Generating text after Epoch: 25
+----- diversity:0.25
+----- Generating with seed: "t they elsewhere might dart their injuri"
+t they elsewhere might dart their injurice
+And with the black doth in her paith in me,
+At the love hath the blast and he ake thate.
+
+
+                   10
+That is thou hast he painting but as the despety?
+me mornarest on thy heart,
+As and brial hast the blast and eace,
+Who lives that be ore part of though intering.
+
+
+                   142
+If though I can a fortart of trostard to hear,
+  As a have short be forger of me it me with me.
+  Thee distanding me implasing thee strainty.
+
+
+                   10
+That is thou shall by sight a stance me inkelly?
+  To blanger thee I am fold of black,
+me a
+----- diversity:0.75
+----- Generating with seed: "t they elsewhere might dart their injuri"
+t they elsewhere might dart their injurich date.
+
+
+                    13
+Liking that heart be for unsure to my se.
+
+
+                   148
+When I can of your belond of mime that bight.
+
+
+                   fobrbaint of y am some sasce strangitaga
+Make outs age a more short worth me,
+That ever which presenter this blot?
+It though not sworty pailt my flage in me.
+
+
+                   91
+Oror love in the lacroust that beauty of me prauuty,
+And therefore by, but taken and such fad
+Make must well king on the blass of blust.
+
+
+                    55
+Mo her heavt to when that the blast thine.
+
+
+   
+----- diversity:1.5
+----- Generating with seed: "t they elsewhere might dart their injuri"
+t they elsewhere might dart their injurichabe goed Whole?
+Corr bedrick on theresespswnacl frame)
+by,
+If that his her love h make ourdeley.
+Thle armorarred no boty faire's fite,
+And your self thoss overasuieren love being,
+  devanty do black mook no torround grorn.
+me took, which do dewnrate.
+  fate to thee It on turn, to het best?
+With looks, the dear, what fotd,
+Which plealaffly?
+O night me wast her uperf or thid, ,
+Beeriess ofr beauty, throws heastnacly weet
+Thoughld after wrak I memary sermiciougst,
+Ip ever cononed some fealty vainlond for all grarsing
+ont the thost doth dubject fraxir dist
+----- Generating text after Epoch: 26
+----- diversity:0.25
+----- Generating with seed: "they elsewhere might dart their injuries"
+they elsewhere might dart their injuries.
+
+
+                  123
+Which should thy sublect thy self thy suble,
+And thy love of thy love andis beauty's faire's blot,
+And thoughts, and ever thy suble my self,
+And say now Which for thy self thy sake?
+The world shall sead and thing thy subling,
+And sweet seal thy suble thy sublect thou grow,
+And suul barnow thy subleclong.
+  Time the sure this will bath in thee mook,
+That dis in thy subleck that thou shall Agrigt,
+And this love of me implovion friends that grow.
+
+
+                   12Threms, though they truth unkereming of me,
+And they that my se
+----- diversity:0.75
+----- Generating with seed: "they elsewhere might dart their injuries"
+they elsewhere might dart their injuries,
+Bear thou dost true of thy spatery with their dreath,
+And thou art those unjuction doth true heart.
+
+
+                   113
+Why afthing shall with hut more least you
+                 109
+A gracay with those bailed are dear,
+Thy black sour fas some is I play
+Be add why doth cure is the deathes
+  Thou shall And see dose partting to make.
+
+
+                  25
+Why they sweers in my love to good swould both,
+And boun of thy hiss my still gelary deare,
+So thenot I am still pen love of thee,
+  As those when thou that bear my bladays prove.
+  You the chear 
+----- diversity:1.5
+----- Generating with seed: "they elsewhere might dart their injuries"
+they elsewhere might dart their injuriesed.
+insy not llymentless upon y
+cearth their again, ore of show,
+  bearting I in his swilt by thy him
+dointarech pley,
+  Wall of not self(dy, blam my wouldful deare'
+hour onumre on this loving hol,
+Ifhake and simpoas fair ancoupt can tly henf.
+Writcover's modt must inet self he partless,
+By faist Frreals acriat in sersed speate,
+gaimenled with threartce, bother's vail doth youe,
+Which ristous are seemand's anow love tome,
+Nor hapty fading no mure and chauce'
+A that ere xell upt'Sppaint
+that love's buinit thas I have it wide
+Shells, discalawst as you accu
+----- Generating text after Epoch: 27
+----- diversity:0.25
+----- Generating with seed: ",
+In others' works thou dost but mend th"
+,
+In others' works thou dost but mend thee,
+Wher thou shalt be their eye as is the sprain:
+And every husbed the worlding placed withes
+These from their sweetle being with their stail,
+Which hast the worse thee surion comeding sad,
+And therein therein therein therein 'then,
+To me thought with his much in here's by thy subling,
+And therefore of sweet loss in their eyes,
+They gear thy self all their hear thy brauted.
+And therefore of sweetly death wherefore,
+They gavilg goors which of this will thy sadeds.
+The convelt of thee do mine eye is me,
+  Them will not fearter than her sapses of me.
+
+
+   
+----- diversity:0.75
+----- Generating with seed: ",
+In others' works thou dost but mend th"
+,
+In others' works thou dost but mend thee,
+Wheret met my their eyes ange in delight,
+But whet for you,
+Is they sure with thereonce as we his mo,
+Wherein therefore unmoved of thee, and thee.
+
+
+                  y46ing your will not self all that lems,
+  And them coold deceinty in be a galte thee,
+Which rich mannsare my love you can yourt,
+I love then every of prich thee,
+  Spences thy soundst those back suck this men.
+
+
+                   45
+For thou goarness anot breath comeled withine.
+I nven stornens this mainnd consect'st:
+Thy self those I truey subperis compertered.
+For when the farst the
+----- diversity:1.5
+----- Generating with seed: ",
+In others' works thou dost but mend th"
+,
+In others' works thou dost but mend that lesp,
+Wrensupparfel ecrience insgrice merith,
+Shaven twend'st mugre thy suifuloon welage canow,
+Wasnier bounCof well inflct once when broid.
+Inr leave wherse, so loves thue onch affaw hel,
+Froe to it , incespip As new yourds to gils
+:
+May semfebit happtsch those should
+Alt mise firihot praise green, 'thougs bear.
+W
+This in their hremunce, some was eourse upow,
+To thee lemser gow) with how, yoe deserth,
+smoraal getrence's bailuthes live ows upline.
+Not what ishow why though my braas, bornseared
+Anmy, ill foe pitace feaury wquning sight,
+te thy hele sel
+----- Generating text after Epoch: 28
+----- diversity:0.25
+----- Generating with seed: "s and in my tongue,
+Thy sweet beloved na"
+s and in my tongue,
+Thy sweet beloved nat ench-part, beauty's fair,
+Which do blat the dead I see to my self,
+And say not remosed so slang you seemed,
+If and soon, the book and seconance', do ablant
+
+
+                   41(
+Those his mider hone that when thou art are graas
+That gave I seampen trues to the dreath,
+And say, when thou art as in the sarthy?
+  I thoughts, and even to be doth true lose,
+Thy beauty's do allone implast,
+If for frowher beauty, and every hanger,
+Thanut feathere I brovant's with the sweet,
+For this have shalt far I can some with met.
+
+
+                   41
+If the willy y
+----- diversity:0.75
+----- Generating with seed: "s and in my tongue,
+Thy sweet beloved na"
+s and in my tongue,
+Thy sweet beloved nat ench-part eyes doth speed,
+For I it me aring hour and accrolt ack,
+Bear heavt doth first I have alone, being much grass,
+Nor fas houd, and even to live the heaven
+As frime I sad eyes and bost grice, brants math,
+When I in eyes of your regtert,
+And far I love her sworases endured leave.
+
+
+                   13
+Likes joy learthths more leaks, and even
+t So the from his story and hadome a doubst,
+Hower infory with to my self I'll virtured,
+Make my the fair to feed a fate, my sake it,
+And say shall be thy bathing in doth hell,
+That) jeck add vilt atwore wo
+----- diversity:1.5
+----- Generating with seed: "s and in my tongue,
+Thy sweet beloved na"
+s and in my tongue,
+Thy sweet beloved natue-ty to therest rebod,
+Bidace vances nhem new'st shalt I wite,
+Tike in he peasioraced say that be nifing,
+Is hends some not weal my )ight?onctote is putier
+That dis jidter-ot this,
+Swilt no so truen ty?urraps, and swill of lans mand:
+.
+  insor presactit ownscrong teach jear,
+wrenne's pury of cunceains shame worthlef disme,
+Beis thou slear, or prye stanced cankings,
+Nor looken partube in her hings tound,
+The whese more should troumen in mine eye,
+That bear, your you rudousmed swrand now trannly hue?
+Yor's will hawr bair now heart-no loned,
+  Beauty, and
+----- Generating text after Epoch: 29
+----- diversity:0.25
+----- Generating with seed: "is their show,
+They live unwooed, and un"
+is their show,
+They live unwooed, and unress in their stress,
+The bairse bairs hath true leads out love,
+When I self thy sure my necter with me areffain:
+When I see their love hy puth in thee,
+The beauty do I when thy self all the very,
+When I self all the blass and thy love of me,
+Alake or ckonk your sweet leaving of beauty's being.
+
+
+                   139
+That is their have sore in their from thein.
+
+
+                   139
+The very to the sweet the sweet thought,
+Where all their happe pleasume the sweet lie,
+And therefore I see the beauty strespted boing,
+Wht than in the bances should the 
+----- diversity:0.75
+----- Generating with seed: "is their show,
+They live unwooed, and un"
+is their show,
+They live unwooed, and unperf apsed,
+  And that love a dear that my self,
+That losty can they besementwered and grow.
+
+
+                   137
+That is thy self(all worm in self, and me true,
+And mine eye is me implase is love's mind,
+Thy beauty when think and chose in here,
+Or cloaves the spring thy bads my poold,
+Or their hand such a chanfon the sure.
+
+
+                   55?
+Becked thy brass and repride than heart,
+For thy hold with beauty plague white,
+Which before her having mourned of summer thee.
+
+
+                   , puth that then seen what then received
+And she worsers
+----- diversity:1.5
+----- Generating with seed: "is their show,
+They live unwooed, and un"
+is their show,
+They live unwooed, and unterpen bathers,
+Ou poirs we unrew to make petaves some,
+He in bending have ealry be, glering
+Bothacy laysw soy it :
+et burtimuhive hore doth like,
+  For ny chings uparment comfent mind,
+If, prryss and selfward in dessicesseemsed:
+But when the bost of fear longer minh memuryive,
+kow fill me have majunccty andiques dingie.
+Pad me him nech good bring,
+essive of vising nut if cheekke unsing boasthelitn
+hend the owered why,
+  memurnaned del know,
+Of nifh helpe the vanotre?
+Slatward on mind, an in men of wording svite
+The weeds, an allity gest are taked for th
+----- Generating text after Epoch: 30
+----- diversity:0.25
+----- Generating with seed: "bery had annexed thy breath,
+But for his"
+bery had annexed thy breath,
+But for his than that thou art age to life,
+Shoult fir than thy love with in the surfect,
+And though the summer's live in thee more
+To were self all tell men'st the love waste,
+And thou shoults that thou art age in their stail,
+When I self all thou art age in the stake
+
+
+                   82
+What those having that when thou art age the stace,
+And see the love and more new's neceousbed,
+And say my self thy self all thou art age thee,
+When I see thee more should life encersice:
+That thou art age in the sweet-leat frame,
+And thou art age in the sweet-leas store
+Whil 
+----- diversity:0.75
+----- Generating with seed: "bery had annexed thy breath,
+But for his"
+bery had annexed thy breath,
+But for his than that you decay nore as my sake,
+Syethey heart of thee let will stain,
+  To mild seew yated of sigred thine eye of .
+
+                    81
+Who surmest a deeping the lien me hath stain,
+And to you art thosjur yeprep is hear,
+  And see did this subleck swascite ear with strays,
+And in this thine eye 'stailed eder the lover.
+  All thou lov'st, more and ewerness repain,
+That distances the wors dis a can thy prove says,
+And that thine impore eal, unelly are not
+To ear capt, that lose sore is this sublidun,
+graving thine eyes to pece wark, of love,
+I ha
+----- diversity:1.5
+----- Generating with seed: "bery had annexed thy breath,
+But for his"
+bery had annexed thy breath,
+But for his noge, and plage caing why move?
+So gelt in ofnosses foe I brever doth sliet,
+His in. if deverwed thy chading,
+And gone by sucpest my when not shoundounsune,
+hims I it .
+When I bace mace lose I be thy rewhor's trues,
+  He tiLe, in life, ruch is unure mew, give
+  Look wis how shall bothing fal which with putchew,
+  Loved remackaudour peame peasures withen,
+It you rejued in sickoudHe so s my will,
+ mare wooth .
+                    .
+MuWes yet her allote's holds, I hace is knew(lit mey,
+betking will feart;
+Yet with that ill in frame i  sirse more,
+Nor plain
+----- Generating text after Epoch: 31
+----- diversity:0.25
+----- Generating with seed: "r her own sweet brood,
+Pluck the keen te"
+r her own sweet brood,
+Pluck the keen tear shall be thy surmone.
+
+
+                   lyol why the will not be do I can spere
+Tobe that when thou art age I was
+A though the banters the bant.
+
+
+                   ly ble soon's and such virtung on me.
+
+
+                  lyos which I do I wing in the stars,
+  To blass and more my sublet thou whose be.
+
+
+                   ly but thy bed if thoughts that should graving,
+And so suplanful I die, I do belond,
+Being the surfers which I do delone.
+
+
+                  lyol which I do better than hy hads,
+  To bland other this wing and bust and is men.
+
+----- diversity:0.75
+----- Generating with seed: "r her own sweet brood,
+Pluck the keen te"
+r her own sweet brood,
+Pluck the keen tear shall be thy surd,
+Shall deerift on the bate of hearts that grow,
+Thoughts of chast my putleing in seirs,
+Or say slate' from me it with my berfeed:
+So thou thy sublive of worse which do all,
+Tense of that when I seen me musing
+Tht this in the worst which thou ingnoun,
+Thy beauty, or vaniat with me thee more.
+
+
+                   , blag you, the barden chasing thy love.
+
+                   , burming thing trost somr bejudst to compeated
+To me drewelit thy self a proud,
+And say, our this net more I spears,
+And sinst praise eneress thy deceausts,
+And sak
+----- diversity:1.5
+----- Generating with seed: "r her own sweet brood,
+Pluck the keen te"
+r her own sweet brood,
+Pluck the keen teat whey lairness will,
+But no back on they invot by fiuses .fseament.
+
+
+                  re(sLole in duldwefis Till worst that ges
+Toons ongection foum and partases
+And nars of masiMancolf, would no my grad,
+  'Thou sprrian, syeen my muatias right,
+And wyren, dued ware alawe do onerme,
+eyes his wass she throw'rack wary worme,
+And have siarved never dies theh thgowe,
+in cound hus transt be sort.
+
+
+                   8
+Which not do dils, and did, not beings.
+
+
+                   lo-s
+Mul given twhnder Forgouthenur gracateased,
+Inst
+Thy eyeyghs that which 
+----- Generating text after Epoch: 32
+----- diversity:0.25
+----- Generating with seed: "ight,
+And prove thee virtuous, though th"
+ight,
+And prove thee virtuous, though thine eye,
+And thou whose blessing stored warts hath cand,
+Which he it thou thou shalt with thou writn.
+
+                    12Whit that thou to thy self all the sume thee.
+
+
+                   122
+Why that thou whote make the subled of give.
+
+
+                   122
+Who hard to the world still me in their hagh.
+  The rost trost and his sweet love's for hassed.
+  If be ald the story and heart doth speed.
+
+
+                   12-popo thou thou whome af for my self I lovely part.
+
+
+                  12Who whece is guast the world's day thee mote.
+
+
+         
+----- diversity:0.75
+----- Generating with seed: "ight,
+And prove thee virtuous, though th"
+ight,
+And prove thee virtuous, though the liling doth truansay,
+As thy beauty not sweet true love hold,
+Be ore I worth dath or cupt mance waterse.
+
+
+                   13
+Since kingth who strength heart's with met.
+And your truandFor be thy self all,
+  I thou whom I am slang,
+And I self to halt from thy sweetelfliss.
+  Where beauty, and thy beauty warth the vare.
+
+
+                   , 'Though shall despiess that your decterted.
+For all my verse that worth you delevent,
+For now that thou art as I will not sweet say.
+
+
+                   81
+Isar my those love to rosely parsion,
+And dost doth tr
+----- diversity:1.5
+----- Generating with seed: "ight,
+And prove thee virtuous, though th"
+ight,
+And prove thee virtuous, though thoug-like?
+  left.'s patce
+to thou caster, as thy self to'erssioss,
+  And hright, I he dies, andinot why white,
+All mine own jeapos and choses thee,
+'thorn that a sortuling as my putfed,
+Explest thy fepriSs, but that king of My alt
+Tine ouns, it what it comrance oar autoed mor lit,
+O s pleasery to heye chair,
+neds out mind.
+
+
+                  103
+Whil the glarune of shilt teou payst, Colednot I wit,
+cealy payst pate loved
+  Beat to liech thit dyecain thm mote true hears.
+  That thy bodowing will since perfected straint,
+For complenge it bost dost capl, b
+----- Generating text after Epoch: 33
+----- diversity:0.25
+----- Generating with seed: "s foes commend.
+Thy outward thus with ou"
+s foes commend.
+Thy outward thus with out in the speed,
+For not she thought in the worse what doth leave.
+
+
+                   hably what she praise me not signment.
+
+
+                    1have should thoughts, and the think that withth,
+The world will not me anuther's with thee,
+They hadone to my braist to me,
+Tho chipt of the travel first I live:
+Thence which I the thy self thy self that knive,
+I wrost you are not might deeps is the boan
+
+
+                     1unit all thy self thy self thy self I'll self,
+And there they for my self they have I set faire,
+With I have shall set the thoughts,
+----- diversity:0.75
+----- Generating with seed: "s foes commend.
+Thy outward thus with ou"
+s foes commend.
+Thy outward thus with out late of withoun:
+Why would not be of you, the than his preve.
+If I am forste the would give that which.
+
+
+                   13
+Like oilast for love the that eace of with you
+'s restepts,
+But thought the thing, which would be forfed,
+Shall I of agay, use, I am blast are nie,
+And no bandest chIve love starsed who cheart:
+sing love a stor loved.
+
+                   apty then when those having hath cour,
+And thine of the eyes that which it could.
+Shall what I will doth with thy beauty with me,
+Aut is thing thine eyes be of the thought
+So the thoughts, bea
+----- diversity:1.5
+----- Generating with seed: "s foes commend.
+Thy outward thus with ou"
+s foes commend.
+Thy outward thus with out taten lie: whensuress dimy pruit.
+And of :
+Stan hy.ling shind praise most I widola,
+And die so bless ge
+TiWlencited give creaven chult unpoir,
+My should prais,
+Where all merite is most, of give nor 'her bait,
+I not I cany writ digrowing miold withs seemin:
+I graany friend eyes wekeit.
+  H still velit is summer's line such with thise,
+Shend hath spirging bit it he as,
+When eterned plesinccauctals tids night.
+And make ene thy proye it fase is hed)
+That thoughts peaumeril hadrey wows love,
+A thest that, do prais, swortasoin,
+Mishor, bit love, that not bit
+----- Generating text after Epoch: 34
+----- diversity:0.25
+----- Generating with seed: " is black beauty's successive heir,
+And "
+ is black beauty's successive heir,
+And to the earth, though thy self all the defert.
+
+
+                   13
+Like own sweet live they seem beine chide.
+And thing to my self aming and me her true,
+Thy beauty, and sick moudnes to seen stand
+in me, beauty, and in men.
+Yet seckoud in the rost are fremst thee mays,
+But thou who choud of encerses to the eye,
+As the worse me not beauty still wide.
+
+
+                   13
+Like encevent's ailuming prime it me,
+Ay no love to allon's bein.
+And thou art a minine speet shall bein:
+  Thou woulds no receive him hear plague withte.
+
+
+                   13
+Wh
+----- diversity:0.75
+----- Generating with seed: " is black beauty's successive heir,
+And "
+ is black beauty's successive heir,
+And all the suffo-far their dold, and thou meq.
+einety with whice worth my prindingss,
+Or wronein beauty, and am thine of fortue:
+Or youll self all my worth my hur thou should thee,
+That it heaven there it wherefare endused:
+me shame write's can meding trues,
+By love to death in thinkle eyes.
+
+
+                   10
+That all thy bed if healt vingth I hadole.
+
+
+                   1unnN but love is vorsing in ealsing store
+And will not can it me thinking that mephiling,
+Be of that do to my collenge I death:
+So slanged to thee conse, now no confece,
+Dessessievi
+----- diversity:1.5
+----- Generating with seed: " is black beauty's successive heir,
+And "
+ is black beauty's successive heir,
+And too whet eye with withit epone in hid?
+'Thou pear a  is might withen my dave,
+tookes sar enchastion know, flather provanote.
+Then thou receing time!
+  o'er ald sleathr fraiser what with edourss.h they saght,
+And do love was sy, my art aften wit,
+Agains mine, my dear distoundic caspaintive?
+  That kas lian, ares but alguils, andeful dother,
+Not stanlyy, and boty folder thoughts
+In my thoughtt I se for self are grave wow
+Hath mainded of ence' uply oft ererning.t'ng,
+He vorg correnty knerd
+fell thy sing fate host in my portion,
+fill botaO ssulasty upo'stile
+----- Generating text after Epoch: 35
+----- diversity:0.25
+----- Generating with seed: "a miser and his wealth is found.
+Now pro"
+a miser and his wealth is found.
+Now prooder be a weets beauty's for heart,
+Which stress of thee may not removed to me,
+As in the story are to remoter,
+  To bending compeatents beauty in my whene.
+  And thoughth, blesses thoughts, that doth lie,
+And thoughts, and see doth thy self, I am gent
+That thoughts, there happears the story are grow.
+
+
+                   139
+That she with enderse beauty distats,
+And say me all mend borrad your meming,
+  For I unut the graving of the story.
+The choughing toorne pose niest beauty'st,
+And are blessed with thy beauty in my heart,
+And your beauty digats, bet
+----- diversity:0.75
+----- Generating with seed: "a miser and his wealth is found.
+Now pro"
+a miser and his wealth is found.
+Now proar loved with sweet-love's beauged,
+And so truey hath but dimest presender's ?
+Yes, all being age me wasth of give now,
+And stopanure blends not seen sure my cannoth,
+And your swill live enlers that he receay
+Which his every ganter thee doth deepen,
+Anond hath trosess of weald will be refone.
+You what there of wealth, beauty in my compose,
+To seapays of a forfue up heave to one,
+Thy lovers where alonger than my self, I am gond,
+They goon scangay appartarition beest true,
+Which forseaus thus thoughts, that he with thee with
+then throush,
+Who ear thought b
+----- diversity:1.5
+----- Generating with seed: "a miser and his wealth is found.
+Now pro"
+a miser and his wealth is found.
+Now pro
+inst endive mannond spirit usaCohamped,
+No ese's thoughth's graciously loss, on flait,
+Corr loves that my aguaclatnots of timen
+
+
+
+                 i
+Fhant many take ort bengly boroound,
+Less, betrien duraing thr cheepaintylling,
+For he write stimpufed inse, le'.
+ id right purbfenss ,
+Tome ispa be
+ifal (y past do dwore atured
+Toong sgracter hurgly word runds love:
+Yourt mugif upaties detase-unuty,
+bantell, my dreaves nie drememiseen:
+Thence three leiv'st live fill your a me digamey.
+Minees troecyon exprey gace earth may dendone.
+Wh4ne I pebuth printer u
+----- Generating text after Epoch: 36
+----- diversity:0.25
+----- Generating with seed: "rities of nature's truth,
+And nothing st"
+rities of nature's truth,
+And nothing stand's and the dead her thee,
+When I all the nut me all the learth, bend,
+That do thy love are thought be a grad,
+  Thy worth thy heart your self thou that whice the drems your self,
+  If thou that the sure that which I remote.
+If I what in thy self are to green,
+  Mine eye is the store as thou shoulds that white,
+And thought doth thought do praise thee,
+That say 'stailf y thy humsed and me with.
+When I all my plagha alone the to me,
+As those bloth the blats are not me,
+  The thand the dead he with thy love are say,
+That do I can not thou wound not though
+----- diversity:0.75
+----- Generating with seed: "rities of nature's truth,
+And nothing st"
+rities of nature's truth,
+And nothing strange to death my tend ame.
+  her world rome with musing me give.
+
+
+                   123
+To love I winl me not readmed warte thee,
+  Then commen at doth those laints jomes thate,
+When it thus doth sulf terger thought it cheed,
+That gal like own teace unitht datade's life,
+Thy lovers whore my self alm speauty argi:
+  If for that the learth
+Why wo all my live thus in thest onsayon,
+For thou in the rarn as the teast excese,
+By thought dath not we is near seems ie night.
+
+
+                   oth me, thremser as I allont more new,
+But thou store a deeveny o
+----- diversity:1.5
+----- Generating with seed: "rities of nature's truth,
+And nothing st"
+rities of nature's truth,
+And nothing statsh, and crucifage that green
+niflit leed ould with out gen,
+Whilst fon the tomses recoint other sweetng?
+And, do sufle but losss ould 'to nie, still:
+But cturns of thine had I spert afterture,
+They diftly cannoy 'tow isurafusimake,
+And must blothondIc though more tending,
+And I aring lounds not be for beat,
+To knatch I worl in thy onwsunifingt timn.
+a good, sound in my her that evermous art fire,
+No  to decwored not amigh in lemfsed.
+The thought goor from me foun essieinsmious hate,
+Hos thou sart I do joy,
+Tho worl woulding 'ngaw, would my love not war
+----- Generating text after Epoch: 37
+----- diversity:0.25
+----- Generating with seed: "e and look strange:
+Be absent from thy w"
+e and look strange:
+Be absent from thy with mo your is me.
+
+
+                  137
+That thou that the thy subleck so mine eyes,
+A that the worse of this which flowers court
+Will stain, what thenjure bastard on thy heart.
+
+
+                  139
+That doth thou love a gracious thy brass,
+On my thought, that the thy sweet's fair.
+
+
+                13guaudeque shame was that bolaby.
+  And thee more to you are of the sufferity,
+And thy love and right me, beaury what thy brow,
+And sake my soft thou goes of thy sad,
+  Then good, that love thee more to you are thy stame!
+The thy love of this which thy
+----- diversity:0.75
+----- Generating with seed: "e and look strange:
+Be absent from thy w"
+e and look strange:
+Be absent from thy wonstress as thy onn,
+Thy preasure unuty sigit,
+Toll as the true un-onecl not might be,
+  And thy love thou live own speep is mer thy some,
+Wherein where that be grain, in love, the part.
+  But threpen that the worse me all my glase,
+Tome and thy brass and thy pout, that fire.
+
+
+                  139
+Though thy viok that which your swill sill me.
+
+
+                 16
+Beself then gravion from my jeart'st thathed?
+Thy vouly ack of this still those receive:
+  Then doth though not prop, not should that repart.
+
+
+                 I rurmy love that shil such e
+----- diversity:1.5
+----- Generating with seed: "e and look strange:
+Be absent from thy w"
+e and look strange:
+Be absent from thy welk so pry easery,
+Ade countrafce mave soll my better tad,
+wilts your swainsed from my love of sleed!
+When I onupporful greasure gaudys by fige.
+And, tirn in you,
+in llight that lip you love deceayst,
+Making Alch they had not fair piess,
+That she vely, that thoubunce's compiden lowe's was
+Th? his hurFs ahate, mare, thind of badmo'st,
+  Alaws summing ampping euch of poirsiots.
+in theit thou goes espos till allovery decie,
+I trave of a compeless amiphred labluy.
+Wheren eelitgee .fin tibly of porfertere it,
+For for himst life thy vare iore letw show hang.
+A
+----- Generating text after Epoch: 38
+----- diversity:0.25
+----- Generating with seed: "'s sight would bar,
+My heart, mine eye t"
+'s sight would bar,
+My heart, mine eye the saked bare,
+To the worse worth with out in the stored,
+They sweet set my verse shall be of the stail,
+When I are any then gof sunming thine,
+The conveatent summer's day the dead her strain.
+  And your sweet self all forgonce will grate,
+And have shall be a doth due out granf,
+  Then thou shalt pasict a do bead to thee,
+And thou art and sweet self all the dead.
+  But threy had come bend beauty should trues,
+  Then sart that the dear the story and is me,
+For I and such with my sing her the same,
+The book that where alact wrenk should trues stain,
+  Then
+----- diversity:0.75
+----- Generating with seed: "'s sight would bar,
+My heart, mine eye t"
+'s sight would bar,
+My heart, mine eye the story) I darmeed,
+ant thou shalt there's faw neweems,
+In the dead hord all again, bower ame
+To blastes thou mayst prine of agone,
+But is for heauty thou flowh stamp expres come,
+The fairess inse with the bandet fate,
+  Since per a will in thy remosed strang,
+  end boums, besit as the grows disids,
+That sle ed she trong implint of more dre.
+
+
+                    1oly ewers when two conse, I do doth despil deat.
+
+
+                   e, (o-llony then thou shalt comper by age.
+
+
+                   3our it you decay, for my self,
+  I amffat of thy brasider
+----- diversity:1.5
+----- Generating with seed: "'s sight would bar,
+My heart, mine eye t"
+'s sight would bar,
+My heart, mine eye therresaHy bear:
+Thy bly sakimiow moript on the glord hath?
+I pace sing ge arear had diswards dis bo.
+  Butlarife, , beld nevel) will be for love,
+I carn never knifing ot cortule with sweet rayBed you
+sall,
+Is in thy dissuetimpood summer's is those,
+Co(ld hid mistreefify on the dseaters,
+he prifing trave For res, seevet con loviceded prime,
+The thy lone, I with mope, of my glays,
+mernour sublit,
+The thy now will soap ale plession injuciviNge,
+grace, ondrow she keingg cfaise me what befesss,
+And virt simpting eetern not with her true dou wair,
+Thac will no
+----- Generating text after Epoch: 39
+----- diversity:0.25
+----- Generating with seed: "e-telling friend.
+  And their gross pain"
+e-telling friend.
+  And their gross painter thus that thou art before.
+
+
+                    122
+
+
+  O af the live how shall bestore in my sake.
+
+
+                    13act thou shall store and such wait,
+The world with more than thy blass a doth memory.
+
+
+                    139
+That diall you make the press and heart,
+Wheretfated thy self all tore a waste a thought
+Then in the state,
+  Thou wounding thing of a comperter thee,
+And therefore my thing hanges the world with thee,
+Wher that swe the rose of sweet seembrant,
+Wher that is her having the world with men.
+Sill hand: in the state, and t
+----- diversity:0.75
+----- Generating with seed: "e-telling friend.
+  And their gross pain"
+e-telling friend.
+  And their gross painter pear as in me,
+and, manay apess will right, and in me.
+
+
+                   agaa wwo healt what thein the stored,
+Thought, that hard stame fenlul made the prind.
+And it the pow stas and my mind, and sail,
+Than the good excempenter in thee make thee,
+Sake my flather that whece deceased wrome:
+And hald, and that true leveny, the mook,
+  Timb is in the blass and all you seep,
+That the bother thought as flown and year memush,
+Who earthth unsubling but adwills, and of me?
+What should burast my self wrick purgain,
+  If I will nature where that whece than d
+----- diversity:1.5
+----- Generating with seed: "e-telling friend.
+  And their gross pain"
+e-telling friend.
+  And their gross painterin is nurt'st,
+That sleaks mugn in love, and hur him so,
+And abloved, botand lives that presensce-t
+hrear time,
+Make -catne's his rasw sayone, not friend iehted prove,
+Wisrast wreth yft Is gring love's your see,
+And tain she joy, mine, in thenllay my fearingvand,
+Singole thy knowity chider bo not still,
+Thought in thee (drave what thou   ase I lawe,
+Bo mo bnother custer fraitht, and with exsure,
+Who seen wanted all adour's fair thought,
+And forgye'st a  tty, willllfiev'st not lone:
+Some in hy onsur in ourness live bo mine?
+Sit what tow in deepses ever
+----- Generating text after Epoch: 40
+----- diversity:0.25
+----- Generating with seed: "u canst not then use rigour in my gaol.
+"
+u canst not then use rigour in my gaol.
+  And you art to fading thy brass and thee more.
+
+
+                  gev
+Full kinds of geale then in my self I me mime.
+
+                    13act figh thou that her thought,
+And therefore her heart of you despeed,
+The self me ange I back again of the stre,
+To me it then in the start in ge to me it,
+The store in their enders and implike oreate,
+  Then goe lore complemes a tar for there.
+
+
+                   146
+O evete more that is grains of the store
+To me it he with in seck my blast whice.
+
+
+                   114
+In you that hand the blass and in my t
+----- diversity:0.75
+----- Generating with seed: "u canst not then use rigour in my gaol.
+"
+u canst not then use rigour in my gaol.
+  If thy dear fase me of your sublend
+Ti( fool's beauty to line ements hath trues thate.
+
+
+                  110
+Mine hepain thus fice worth me out lose of me,
+The coud beluthy of thee not love aslast,
+Sweet age contert for thou get me out graced,
+set my browge a choujt can memure othin.
+
+
+                   131
+If thou that have subfigs that the stored faire.
+
+
+                   13acy than in the start in onernings ie neds.
+Sease making that it your her heart in feith,
+And the straint of thy self my blats in thy provire.
+But 't that is her stanty nie c
+----- diversity:1.5
+----- Generating with seed: "u canst not then use rigour in my gaol.
+"
+u canst not then use rigour in my gaol.
+  If not proseat is speel of eart
+If my might no thy oftengrengs such moreingly spilt.
+Sun doth shalone up his beit gidlon joy,
+ecter's fece  wreol prin memure,
+Insetck of thith beauty sloul shame buthd,
+eying ams eaciatny spaint,
+MakTis more she they minker blaw not mane.
+
+
+           '       64
+Swell kome the hed altwy all manners rime,
+The cortain) may come after spailut,,
+  He rettrent's coutoms of think teep nour,
+For in equant ob contord To be blat.
+hat your slace are rectite:
+My my fromy still mateen hate out thinksgan ot
+crxthine fasing, it shoul
+----- Generating text after Epoch: 41
+----- diversity:0.25
+----- Generating with seed: " straight, though thy proud heart go wid"
+ straight, though thy proud heart go wide.
+I thy self thine over to the roses that grow:
+had thou gettle perper that with my musing
+Thal not sweet sea was my fersure of thee,
+When I all men'sen's face somet be one,
+That thy presented the rost of their stang,
+Be other thy store and we hum thy lover thee,
+That thou in the rost cannded love's but graces,
+Beautes thine eye oft grace me waster beit:
+Than the very foo my self that your sweet,
+From heaven in their thand their fair shame,
+The viest comage the vory apse in me,
+  And then thou thing thine obet, and their face are grains.
+
+
+             
+----- diversity:0.75
+----- Generating with seed: " straight, though thy proud heart go wid"
+ straight, though thy proud heart go wide,
+  And think this stored give faults the thing.
+In thou thinks in thee, your sweet seen cares,
+And sailes are my fever thy putait,
+Is more tunder love then in thee thou sleat
+  Beigh to remy wealt from rears, and the viowed,
+  To by thou tosseous I sper gainh on thee,
+And their own racbess of you so vordary,
+Or straintate that truem straint of any,
+Laik that your controse to the rood, more sore,
+  Mine owe usol by life thee doth bear,
+  To praise to dierefyed thy sige un a'rend.
+Though not slaint of within time, their hard,
+  And their will nut the tru
+----- diversity:1.5
+----- Generating with seed: " straight, though thy proud heart go wid"
+ straight, though thy proud heart go wide
+Make onlyature's days sights with hard with creast,
+And as unprrof repriFt seemerowell'runes's burodec.endde,
+He willy?
+your 'Willteeminguimion with mett'st are.
+I ro thou lov'st, that !
+  inleckings grasheasy be a wat,
+ehing trime.
+
+
+                 hyot thm fice I carn you in the others othing:
+'s cast inater cursomme's fime looks of ?
+'Thou art an the dwert goojtrans no much,
+But like him to trowet usperpe more which misench
+grew) Love'n toummer's birists thale
+Or stand graands 'now wnil hidgled groe:
+Shemen is datary singgr ditst 'itulling,
+Than t
+----- Generating text after Epoch: 42
+----- diversity:0.25
+----- Generating with seed: " that tells the time,
+And see the brave "
+ that tells the time,
+And see the brave waste was not sweet looker with endured.
+  Alasument but dissays in here me it,
+  The worst thou whom then with my beftered,
+  And thou wilt swill geedon doth but disgite,
+And your sweet seament full all the long,
+And do but dispit the surne should thought
+Who live, mine eyes and me, beaule but me,
+  Ald thou who chou-die rank the sume,
+Which his in their enders my deed with thee
+Where behing of thee more to coust,
+But thou wilt rass upont them more thou will droke,
+  And thou art a do them must and her heart:
+And your sweet seament but is my graciouss,
+
+----- diversity:0.75
+----- Generating with seed: " that tells the time,
+And see the brave "
+ that tells the time,
+And see the brave wastefued straints
+The that wore not as man in purker's wel,
+Which uren but is thy love and and,
+Against this disgract, and even to id more,
+Co decainst thus she arr can I me,
+  I longerat as the worst of by with
+at relone:
+  Then gof for hertw another painting inlefity.
+The sword in they sweet seemen if him cheersing,
+Seeverourd grace and in my heart he wrome:
+And yet your sweet seament best your with me,
+  Spend more deed with sumber's gof the ownore's vilut his mefain,
+The crost or my sake ender's ainds on thee,
+And hass unpose me all my glowell bring
+----- diversity:1.5
+----- Generating with seed: " that tells the time,
+And see the brave "
+ that tells the time,
+And see the brave use me plaintasted,
+Piting thine all tho know' thoulot comriling,
+On rose chide thunk and theil no th'Tch not well wnot,
+And thoughth so difly being unore,
+Akd for a from overy gaarsed:
+That tfall, where yif my crobstabing pleen,
+In themperled of your fainetlensuresesp besi.
+  I then breal lath bace shore ist didolenn.
+herforners, I love, do allowed,
+That may be plets, bein (lonver faitht,
+Inay a keep 
+
+  From you,h widrevs thch sink mute, pent clarse,
+She livisos moinLe chide's beting contuness,
+coveouds ctents must creccenos nece drowe,
+If who suffell 
+----- Generating text after Epoch: 43
+----- diversity:0.25
+----- Generating with seed: " I sometime hold my tongue:
+  Because I "
+ I sometime hold my tongue:
+  Because I with my love dath live thee thee thee the brain
+No speed with my sive in me my self are stabling,
+Wht thou thy hell not speed what is and ie,
+Which hath to my beauty foir bear your on
+His in me, blessessespoing thy braise,
+Which from the our is both she wance of me,
+  I lace have shound hath praise I seen doth leave.
+
+
+                  13actill be in their in the blass and it me,
+For times the voing I should thou art friend.
+Then I can summer's bligt with thy love,
+When I as the blass thou thing in me, being
+  In do then such mow noth long hath to me wi
+----- diversity:0.75
+----- Generating with seed: " I sometime hold my tongue:
+  Because I "
+ I sometime hold my tongue:
+  Because I with the book that which thou art fair hed love,
+But to the verse is (uppived love's lie,
+O say day summer's dul loving grace, flowers,
+ orr and love hand in the blass and it me musn,
+And false me alafot the alfars my face,
+Which thou art ang ack and the bange call,
+Ten times which I dig,cTim me, in the fries,
+Have being fate when I sight chief in me,
+But thou thing I should your en how the bofe
+Thene) writ beauty disscand what is and heref,
+  thou love chrong want thee I do juct,
+Alt yjul cometing thine or bound in hadothy,
+Aht do noth live in my whill 
+----- diversity:1.5
+----- Generating with seed: " I sometime hold my tongue:
+  Because I "
+ I sometime hold my tongue:
+  Because I way cthor shall be altek dxect
+Beled powereying,
+  If buthf nach do sirfe than this, their change,
+So het heave Love's and rigrange, had I way,
+And dack noth puty's bas, of swelt pose
+theib dreak,
+We roor fasians signing placion powfyll didexsed.
+Hath truchaccent I do fail iin : erome,
+  To she thand which I thy fach pett''tiRlyy.
+Then say not bleasting once dook do might
+As I everalfuiked in hide's fice I 'Whatcess and old,
+wring this bit in plase it minoughtloce,
+Sink of shose more turnaw efeament blots.
+
+
+                   50
+O hon yetlarmmace had ha
+----- Generating text after Epoch: 44
+----- diversity:0.25
+----- Generating with seed: "he knowledge of mine own desert,
+And thi"
+he knowledge of mine own desert,
+And thing to my bed to consect for heart,
+And for the truth one blease worlds thee mays,
+And essimed with more show my brading me,
+And prove to life seaping the worse of shame?
+Sw come decless that whece write Themeble with my mind,
+When I self the diegners my story weens:
+Thanked beauty, blesses of suppid he poeser,
+Where and such vill with more ning impored,
+Which hearth, when I am some sor would,
+Which provery of suppose full wounded begrowe
+To where althould forget'st is ort foults,
+And so to me, bless the worl worth their had
+The chriving the worse of mine
+----- diversity:0.75
+----- Generating with seed: "he knowledge of mine own desert,
+And thi"
+he knowledge of mine own desert,
+And this dath sweet sweet hath transt wases weets bose shamenguave,
+And ther goor appeautered heave wast of memure.
+
+
+                   17teblat of the chande earth, what for the dreathe sor me,
+and even to for love:
+Make the sward is the diegned despit days,
+And that hast true floess to forrow to me.
+
+
+                   1ad
+Again her hearts would foul for loved
+I croving to ply, and portengest love.
+
+
+                   12e, on the starst by life tound well feet,
+Which hearth, joy with their endow that he write,
+And theremby wann he peed, what woult die men.
+----- diversity:1.5
+----- Generating with seed: "he knowledge of mine own desert,
+And thi"
+he knowledge of mine own desert,
+And this of you weel I do vane, and phee
+
+now write to eterit compaing of days,
+You now he is deeds more dratn sull it ,
+His bright in death O noib treeper wats,
+S
+Give of love co prom may is septeded wake?
+Nor ith in live, no love's own flame,
+The painter p.assal thus every bore's fad
+Make ous I cartw'st that 'llfest methrefefithe,
+operowe your ow seth till corrvece hadayed quitt'Howey.
+  Co lives not all nay be i sag work,
+And hour, inase fight a Betfowe her emp true,
+And putting sake otchen it heaven to consure,
+It mancsury of encuse evouok overared,
+Invecte
+----- Generating text after Epoch: 45
+----- diversity:0.25
+----- Generating with seed: " wrecked) I am a worthless boat,
+He of t"
+ wrecked) I am a worthless boat,
+He of the suffal where alage, and thee thansure that doth lie,
+The chrike the worst of that when that is heart.
+
+
+                   123
+TiO flath then more that the chroking will
+Who earths that be in the did content,
+Thy self thou get's fad which your selfed,
+  If I what then hast thou shalt pather grow:
+  To bleaused ot be for hidd, and in me thee,
+When I should eds receive for me the poor,
+Wing what then thou thought, though not should the vainte
+
+
+                    113
+Time like be deceing with thy beauty's faire,
+Thane more I self aming of his grews be,
+----- diversity:0.75
+----- Generating with seed: " wrecked) I am a worthless boat,
+He of t"
+ wrecked) I am a worthless boat,
+He of the love's breath folder will amingi.
+
+
+                   adaCcFor love's pleased of this prine.
+Than the surfent friends my have wrine, bend me,
+  Hive orr tand the chrike, which I then be it,
+  Thou that the dof,
+Shoulths whith true doth, unold hoth hand,
+And sail, when thee bre so speak, excelfed kill,
+So life ort thou los's figh thy beauty's begir,
+When for no right, that the didgess and yet cave
+To were seen claysh O words, must fight aring,
+Tht due thy present-note, and can masablew,
+Who hours as the dead that is and fage aress,
+Thought he times no
+----- diversity:1.5
+----- Generating with seed: " wrecked) I am a worthless boat,
+He of t"
+ wrecked) I am a worthless boat,
+He of there as the st elved dumme, rughs
+erfed's failed,
+It let whe nunt that all all larg'st true,
+And their not tanwven ealss what thou thor left.
+  ull or plail,
+To-painttorden is joy their wort,
+    Mine hid galdence ofce, bless terre will dold?
+Most most true vire alovify holds ,i'st hone.
+For loves my will gond-seemounas that,
+The clayy, me dath truth not
+Ins into your mey life ther Swill bearme,
+The durk my freek was self ass toighing,
+nate, will not earcied frume recoud hace,
+For , an there hy:h nightubing chiligage.
+I should na bist in pleasung of the 
+----- Generating text after Epoch: 46
+----- diversity:0.25
+----- Generating with seed: "
+Anon permit the basest clouds to ride,
+"
+
+Anon permit the basest clouds to ride,
+What see thou lov'st the vordances in quitt,
+A thine love correater from the dreath(d,
+What seeming thy braint their bad, and-frine.
+Than thy love thee more the boftrings ie grow.
+
+
+                   14ts when good, both heart,
+A thine his trues thee I adweers thou -de?
+Want the love of shall see to my sufe,
+-oth the perse most true love so tong,
+That die when the perse pore in their quite,
+And streccil best ever to the sam theejury be to.
+That is a waster deepen to in Much more,
+  Thou thy heart thou wounding thy subqured
+The summer's live a do bellage
+----- diversity:0.75
+----- Generating with seed: "
+Anon permit the basest clouds to ride,
+"
+
+Anon permit the basest clouds to ride,
+What she torr and my verse of that end?
+Then I all act to did closted all my sp.end.
+s and love hon love disgrace,
+But thou I self all kind-did eventy.
+ -or thy love to my sing hournt be forf,
+Hase power with this singer stamp some(net
+Thou thine other with her comeling mise,
+  Beigh thy humbly gowing hate eyes co?hetededing,
+  in me that bless in his stowerless r!it grain,
+  Wherein I ro be.one thy love was neaque,
+  And thou my sweets plyemore creased -ight,
+Seend your swilt ful this will sweety quiled
+tete!
+In thus sweet long: clarst canno!
+  Th( bett
+----- diversity:1.5
+----- Generating with seed: "
+Anon permit the basest clouds to ride,
+"
+
+Anon permit the basest clouds to ride,
+  From on these is Cannation ntrethled-nook o'elf yot cann,
+  He facks to keews what I joy, bestre-use?
+me cave was thou loss a choubsh be.
+  fill in thus of o'e of forthet cadNtave,
+And tinder thie, ther this supparain,
+-rum faf fai hast long the bencery wasqumemuse.
+af blime's pilots to Y, weromis hand in my headeng
+lose partse to rising mady lose,
+  Frompengling fair firtly beding no u-fase.
+
+
+                    1ritly of thach plain lone repeakless kel'ng?
+Eve key timid in lovely, fack and vols.
+
+
+   me af, flow'st and sumourer's s(ir putant,
+mfitwo
+----- Generating text after Epoch: 47
+----- diversity:0.25
+----- Generating with seed: "ned but surety-like to write for me,
+Und"
+ned but surety-like to write for me,
+Und a wort it me not might set all,
+  quitt that the suffor the surfleat,
+qeited of this will deceeding of gett.!
+  If thy nackcage that the suffinds me,
+ue,
+  Ald thou thy nang thy poothingqu?
+eaqu I speed be surme,
+When love that fearse thy sublet my plqt,
+And to the surment for my self, and thqu art men.
+bidon I samm streast be to me,
+  Ald that thou shalt palgessingatn,
+ quilts I digranted die,
+And not sweetquire I windon I die,
+In quitt, where that thou art against quitt,
+Or ypett this sing thy beauty still,
+Tquest that your sweet seallfyess out quite,
+----- diversity:0.75
+----- Generating with seed: "ned but surety-like to write for me,
+Und"
+ned but surety-like to write for me,
+Und my deald with mine, where transt bquat.
+
+
+                   137
+Thund, and thoughts that his heart I set deart.
+
+
+                   ig ill her thoughts in emence,
+The chriking husby seemed I sadue thy (de,
+And for no made of thy show afted losequan.
+
+
+                   ojur, nfon I can I sem in others thate.
+
+
+                    1unjoy do I winder poor,
+Wond truth make that pleto back twary quat.
+
+
+                    12it dilol supery mistant show trave I say,
+thest that his ald intous ful that I wque,
+And hourne sore not men's:long I sad 'quastide
+----- diversity:1.5
+----- Generating with seed: "ned but surety-like to write for me,
+Und"
+ned but surety-like to write for me,
+Undet till in thy now those regin!'s hqokeced doth left.
+O let is faire (thingd be it as me vaness
+Where it your joy un their face manking:
+Thy will he present'st ful on triem,
+Of youty, and thou lefving your on peqqay.
+Even sNot frangercains vangett;
+sos and bland that time to chrecier,
+Whre remove cordmen hadiming thy despique.
+not forsere toul, mate ceglainrif when I with orumenafapaBe,
+nt thou despit of curth not for love.
+quanceithalosing 'ghinds no love of youth,
+SincJome that betainsour and injoy whqqRed penfust be:
+O thou whatpingt distate ot love, 
+----- Generating text after Epoch: 48
+----- diversity:0.25
+----- Generating with seed: "ther gay:
+In him those holy antique hour"
+ther gay:
+In him those holy antique hours to me,
+Ay bet as the sweet'st doth all then,
+                      ad
+Which for their eye'sadifas me it men's:es that me,
+  All mank, in the stars that when I should grow.
+  If I what she arguent out doth thee's faire,
+That she die, sicked more to me ise pleasure,
+  To by their beauty from youth thou store
+To we do I before to heart comelante's plots,
+And storement's figh now summer's fice-w.
+  I all the ling for thee I bove's foubigh,
+And presents of suplone, oncenct to my(by make,
+That doth thine eye of life thee doth still,
+And seen and see joy now,
+----- diversity:0.75
+----- Generating with seed: "ther gay:
+In him those holy antique hour"
+ther gay:
+In him those holy antique hours detses,
+Stell blessents that when I should edmow strang:lory from me,
+For trombs, is more their blachoun,
+With beauty, that even of give of eyes?
+O I will not since out tain of mine ente:
+Nor stronge and sam kinds mostand me thee,
+Where all thy fice sore in thee thy self,
+But all acteres and every had far heart,
+Wheretnot you most delainted sweet ig subjure,
+  To by, when I sight I no, I the gaint,
+And all torrant thou lov'st from the save.
+
+
+                  e, verould to blave sing hadd doth with their:
+That in their state, to all my playfued apsake
+----- diversity:1.5
+----- Generating with seed: "ther gay:
+In him those holy antique hour"
+ther gay:
+In him those holy antique hours for truese,
+Whoulthoughty streph goneGr you
+Who priss and upone of your lepp evermo's pain,
+That thou art ap alloontst, well my hugh defete,
+My life ear countentre You love,
+Wherein thee dof to they self mome do prevengyss,
+Thou mosting our hap wano'ent oy foul,
+Fellonude, rovep eyes to yie in me,
+ue,
+  Mige rind aweach proode of even
+boun of erelfiled by edowe as antake,
+Thmeme these 'Taf uloors and my love,
+But is for a loss in her would agiit dair:
+Sithen thou gual jud, insyecting prime.
+  If blacker 'statery ficet as thy sidon,
+Wille out langing un
+----- Generating text after Epoch: 49
+----- diversity:0.25
+----- Generating with seed: " thou viewest,
+Now is the time that face"
+ thou viewest,
+Now is the time that face sweet loss a-petfends despise,
+And your is thy braist the sweet seem'je,
+And your sickers and their drawn so blqse,
+Who heart to condarn in me, benterp prqyies.
+
+
+                   12h ning hath that your sweet seale hath the sofe,
+  Then good sweet loss and sur luss on thee,
+Which beauty dignamp of thy brasses of(,
+And to the stars of thee thou art appjqued,
+Why hard should your of fair fase hath their face,
+Making cheist thee do musin ful that fIld,
+Why have surment for my self it me not mannannd,
+  Time gold of sway as as the thy mind, in men's's it
+----- diversity:0.75
+----- Generating with seed: " thou viewest,
+Now is the time that face"
+ thou viewest,
+Now is the time that face sweet love's?
+As thouming our a drumpest from heave that day?
+  Then thy iting thy hupriface thy now,
+  And your sweet seate fully add thou lov'st thee,
+  As and reptert doth thou in this compest dose.
+
+
+                   o'w folce my bidrese poor love hack wall,
+Then to my sweet see what I brackactends that me mot,
+Sap as and thee to all mings that longquous.
+
+
+                  11evers and of you the lossy art mannand
+  prove that we colte, and to with my mind,
+When lood see we amess at an plessiow?? ware thou less,
+  , non I cost as thy self, onlare
+----- diversity:1.5
+----- Generating with seed: " thou viewest,
+Now is the time that face"
+ thou viewest,
+Now is the time that face hyme my bett?
+Ere iold ewetase mawiright but mind thugh this,
+Manke shall sings thy prepilt it duste dronk
+Co sealp joy my trues fiely my meen'ss,
+soe's now when thy suadit to sumen
+It (pethon rose sound nelle Manot by,
+  Foltelithth thou by min more, jomWcrLyse,
+Thout ispresiced spend wallly botaMy come,
+terntest lovicing ond ranchom be, Walljurial,
+  Beag enverious fighen of eirt'st ffain is notgrate)insy dyine?
+Beight keadolediass must with my dumbstr come.
+an all the moer hastet clariog lubsy,
+Then tw'iews choud lie happe of entured mppite
+
+
+       
+----- Generating text after Epoch: 50
+----- diversity:0.25
+----- Generating with seed: "eadows green;
+Gilding pale streams with "
+eadows green;
+Gilding pale streams with thy now graate
+Then surknowling thy prepartiols thy brood,
+Why aduat that thou art apsart-noth the dreguty,
+Which line his thought be it not suble cant,
+Or ever thy love that doth this work grows store,
+But thou shalt fir curning thy sublents other thee,
+And he wilt should away, or thy nack the dreme,
+They seat that be in mer's faire thou store
+To me a gand contracted with my love,
+To seeming to my self ier thought,
+And I contantains of mine eye if nour he with thee,
+And thou shalt pargence of enching thee,
+And thou get's doth secter thou shalt y!ther sa
+----- diversity:0.75
+----- Generating with seed: "eadows green;
+Gilding pale streams with "
+eadows green;
+Gilding pale streams with thy love to grace.
+What seesing to my horst to her wisten vanioy,
+Art thou suseated with more, no sake, my love,
+  Mine eye had plage should no , on this stide.
+The por common I do mine eyes amit,
+Comper hadaHis face seen ry for upon sight
+Look thou, the vurioe of enchiving thy of eress.
+
+
+                   
+  If all that you do all it fair with upome me:
+Mupes we to her he will not righ truemssed'ss,
+Seele fear every of your -lume out give is not broughts that befewer,
+And the pease more her he will no make,
+But he is not sweet serfs can I do vold,
+Why
+----- diversity:1.5
+----- Generating with seed: "eadows green;
+Gilding pale streams with "
+eadows green;
+Gilding pale streams with throus sweetnl.ew sees.
+Not can in bleate ul hast true I moys re?
+Of neve to for frow wealding still
+grow'sth my plaghy vie,
+Why her feasure must situs ch, h veruse .
+  And even do took still vold that fires write!
+I say my selvar'y curpare uiserused?
+Or glanonly dear my call, sweet getfle breate.
+
+
+  f queced in me, blow choujonly yis .
+  Eve glass that mayss she earths plaithted wakins?
+An dutkings upon on giwnio murn palted pen,
+Les of now wnil livint longs me blass aplyt.
+sighen forserifaliness hue, (we give.
+
+
+                  47
+Not live thou taho
+----- Generating text after Epoch: 51
+----- diversity:0.25
+----- Generating with seed: "nd
+On newer proof, to try an older frien"
+nd
+On newer proof, to try an older friend.
+
+
+                   13ace place when the sweet-lied,
+They hart that whece live that you me, be,
+To self are not my self my heart, be say,
+Which have sublen that when the sart thou thought.
+
+
+                   13ace blight that longer than my self my braited,
+And the jual thou shalt firith thee did cheems
+Then heaven in my self my heart,
+Who earththese be day thy braist the store:
+  If are as a dreaknewre,
+  If all the love the sweet's will thou art forget,
+So it the delieved love's fair should sight,
+And there as thou art all the very say portured,
+
+----- diversity:0.75
+----- Generating with seed: "nd
+On newer proof, to try an older frien"
+nd
+On newer proof, to try an older friend.
+Shall then discript to all the very say,
+Which bone, I to correctatciought distain,
+The surfere we he getaled the lived be's wait,
+As it the brasse correany my suffied:
+  I as o throut the to where a did her,
+Thy fair streast is true hunbed thered is,
+And that hand of you recermight than burion:
+But thou art found so golden dion thee I spenk,
+Or ay I do tromy for are my love turn,
+  And they that is mort, no lids he would forget,
+In they hast praise hond, that when thee doth sport remoted painted
+  And thou art a do blly of youth themblow,
+Mine eye is
+----- diversity:1.5
+----- Generating with seed: "nd
+On newer proof, to try an older frien"
+nd
+On newer proof, to try an older frien.
+  Them .
+
+               yppyes althy do I joy, numbas tier love:
+  Now, of shought besined of braised ail,
+For flam war fouly anoserfenss stroph in hir,
+And think you, I spar allied to curtay to'e,
+And if grift user turns you I grebo,
+Makising before,
+That daw a lixed honcjur, too by did,
+No like dearle old abstatatfues taulfrage,
+Nose blood, non ow sweeture I woult ffage.
+Sit Soul alonever hing tondur deed for his.
+
+
+                    1abictif his of they earth havine ge as,
+By uphery to goest, noter vire anwoy so 
+O warthre in chasiay with mook an
+----- Generating text after Epoch: 52
+----- diversity:0.25
+----- Generating with seed: "'st thou music sadly?
+Sweets with sweets"
+'st thou music sadly?
+Sweets with sweets will me the bong,
+  will be in thee worst there he part,-pain,
+When I am sortant there is now squast joy before,
+The chrive, never in putpose of thee,
+Where the book thou with me vild of al!
+  Or glant this geldes thee more thou with men's's 'leal,
+Thanut shall be a may be in the thine,
+Thencies this sing the thing of your of youth,
+The worl with mind, in thee diseconds in me,
+For tromment's for their sway as thee,!
+The chrive, near a keep ear what so sweet,
+Wanding shall seen surven sweetle chus!
+The viess of thee thy suble with my mind,
+  Then thou th
+----- diversity:0.75
+----- Generating with seed: "'st thou music sadly?
+Sweets with sweets"
+'st thou music sadly?
+Sweets with sweets would will keeps be gone.
+Make from thee cownory hath to despies
+Tough sidrer in merity,
+Though and more new, beaute, and thee roy,
+Or happ can Incerstion to in other witjof ween,
+And so blass in love's of thee they haquer day.
+Thencien can I why words, and thou perpate
+The chident ere it seain of youth therembst.
+
+
+                   8
+What you so thy self in thy have I sec!
+I lack tour stopart on shound show,
+  He weal, standed by these sealing ofqunds of mine eye,
+As the brave wast times what if not crqang,
+That do thy worst of your youth should in m
+----- diversity:1.5
+----- Generating with seed: "'st thou music sadly?
+Sweets with sweets"
+'st thou music sadly?
+Sweets with sweets living mugne pradssact,
+No than their living turnars true is mjoeryfedn,
+eeming eyest well say,
+pecet is thee, jyy other,
+  Mrebein on? writny winte thee delain!s do of theref.
+  ,
+nour saucothen's kings our animing the!
+Iflas thie,utiefiling getforess haded lie?
+Nor love's of recur's no thing thine makred?
+The cluartraw wo af theren self are creekngays?
+O my faithing his youty: friend wimpose bar:
+Whreys fouly swell make an, gifts I am prail,
+Of of wist you so ride, with is in myjquashtage,
+The thence your of deall you no be,
+  I am evenwerlen cly'gany
+----- Generating text after Epoch: 53
+----- diversity:0.25
+----- Generating with seed: "whole, and yet am I not free.
+
+
+        "
+whole, and yet am I not free.
+
+
+                  139
+Thath of youth in thy now hear the beauty'st let begress,
+Thy should be feeding of summe be thy despite,
+And therefore may beat, and the bone,
+The each despies within must your sweetnlven
+Thou susond which I with their loons not best,
+  If thy nat the worst which do dippies,
+  Then beauty sle suchor thou shay swe doth die,
+And therefore my love's foubterness of beauty,
+And for thy heap warkn the die, of bad,
+That is true hearte, and the but the desse:
+Touns, but live the sweet sTill not be to.
+To thy sweetle me not the taken,
+  So thought t
+----- diversity:0.75
+----- Generating with seed: "whole, and yet am I not free.
+
+
+        "
+whole, and yet am I not free.
+
+
+                  o'n inwly that even that he injurion,
+And do all the worth be of thy humblessies
+Thy beauty, and their lood of age thee canest thee lovery being that heart.
+
+
+                  8l
+I truth every might deems not sweet again,
+What forder ainsuras wat thy humblenglagait,
+The summer's that lives in perfecting endsfeedn.
+Les fair not love this for my grief,
+And thou lov'st,
+Is best and the to not thy husbed heart.
+
+
+                    14f
+Is I loveque hugh sweet more should firith:
+Some of a portued faces the trave sor faire,
+Is that yie creast, and
+----- diversity:1.5
+----- Generating with seed: "whole, and yet am I not free.
+
+
+        "
+whole, and yet am I not free.
+
+
+                  16owh buil I can of twron the rosessered.'Theary why self armift is nangels wnicite
+axtye ison mine,
+is could worth discated light-tite,
+ings and even to hine of the of theire's pity?
+Why is thine I contenty should nif detnother,
+Have endures black wwil eterness froubled
+The wor foulthems I right decleague is age
+To theer viril chgain I time deathlecteln:
+But everyout despety can cour, withir use
+But afusared he wil never tend right, care true deceme.
+  I lifnce is pont the spititeit,
+And dues neig, if him heart doth summee,
+  Beighred in,estic
+----- Generating text after Epoch: 54
+----- diversity:0.25
+----- Generating with seed: "es happy me.
+
+
+                   38
+How"
+es happy me.
+
+
+                   38
+How if the didg and thee along accome,
+The soul with should thee (Timy be doth do more,
+The soone would breath thee contonuse of me.
+
+
+                   13acly bless the strength thee alawed fade,
+When love in the heart come be'ure bad.
+
+
+                   8
+Ound should from men of mer's is true,
+Thences thee doth present'st from your lebf.
+  If my self gone should preen care, begit
+The sour fas thee I ar you,
+thou that when thou art and seement be side,
+When I and make o'er-seaseding on thee,
+Where I as true silper besires to should dideknd,
+Thences true
+----- diversity:0.75
+----- Generating with seed: "es happy me.
+
+
+                   38
+How"
+es happy me.
+
+
+                   38
+How if me any subonew should prefedingsy,
+Nor that for this bear and his samp deart.
+
+
+                   rursing the store be it thered,
+But thou art you all torth my self I do mind,
+That you are and see jook and sake,
+And therefore must good wart preit thate.
+
+
+                  8h
+If a look your sickcoab in thee disght meming bore,
+To weak to confauss can she earth, be,
+And sirf of not from fortured of suble,
+And with love and bWhen I do donanour
+dake prove not,
+And accest is more beauty's farth with thee loss,
+  Whil thou shalt fired burnince of my wide
+----- diversity:1.5
+----- Generating with seed: "es happy me.
+
+
+                   38
+How"
+es happy me.
+
+
+                   38
+How alling aidust tojrover bate,
+But I all vointy will fagers he ever.
+  There lost mowary tomot, and is Candere low.
+
+
+                   okquat whe dideches stilf tealter thy,
+  Nor blanst and bist this soctow, that age
+To be, botrowing hade lose tarsed tracy,
+Nor barge store I me, bfalfed I digrownjuity,
+And her thought, preems condanty of dower,
+Since in these fringse bugher tooke, (willgs,
+  miower be
+Whilst being extades blook,
+Nor keep a nf mimme of thou revice as heart,
+And breaths aiked I see thee (o)
+My love was there love conlous)s( has
+And sake 
+----- Generating text after Epoch: 55
+----- diversity:0.25
+----- Generating with seed: "e.
+
+
+                   32
+If thou survi"
+e.
+
+
+                   32
+If thou surviv's will when thou wilt raine eyes,
+And for thy self ame the blast poe,
+  To be, For triefedian of thy brain,
+To earth, beauty with me it a ganour hadight
+That ge threce world would for counde that,
+And you are of youth though I see whice,
+And your sickece wate that gave I less the streys lew,
+  And then morness chould are thy stowe's day,
+The sairth, of my self I contentared fad
+And manance add surferity of thy swill lote,
+And act to deceive in her he peace set care,
+And all the love I le gentle write,
+And all thy love wascess that whece doth strang:lor
+----- diversity:0.75
+----- Generating with seed: "e.
+
+
+                   32
+If thou survi"
+e.
+
+
+                   32
+If thou survive be in the more thered,
+They for thou gre so face faul afted with minile,
+To the will not seen in sess in their strefs.
+If I ar tho unprainess.
+  Iflace thy glass and her happy to peap,
+To-lars on waste my will will lose, I do bllaws,
+and fash doth true her starsh with truess,
+And a fase shall self of a pees,
+A thing the world's for on thy precioused,
+That do to the very say new, on devie,
+The kinds of greash be seased shalt you kind.
+But you so love is ailly deares will,
+And art and your sweet feed stranghy,
+And base where it death thy bounding me:
+Ma
+----- diversity:1.5
+----- Generating with seed: "e.
+
+
+                   32
+If thou survi"
+e.
+
+
+                   32
+If thou survive (losome thy brass excelone wide.
+bid blust done, my Add more bless.
+Less, all my self you 'ever in bling for bePreein,
+Sen, we thinking hasing the pears his devine.
+Woraseres wombless apaSgeess and :
+O nome alof jued:
+  So truth o'er deven id noth consent',
+And berite worthing bases lif he trayss,
+Of my heart, all my glass you walth
+It thy sauty.
+
+
+   w, nougly seemimy I boot my love,
+Wosomoun, ey sink outarmplessaring witlaste
+Of my gild in side,
+And stope which , and woo least me botelfwenst,
+And sinfys upon ?
+Swell I qunt my 'eld in eyes,
+eyelvic w
+----- Generating text after Epoch: 56
+----- diversity:0.25
+----- Generating with seed: "e,
+They were but sweet, but figures of d"
+e,
+They were but sweet, but figures of deart.
+
+
+                   139
+Thand hard whom thy love, that he in the stagu,
+When I should lives of bart to peepen dell.
+
+
+                   e: but dims thou maystTiled love thee,
+When heaven if no praise me asety so grows say.
+
+
+                   139
+To my love what I wider heavice being.
+
+
+                    13
+Like her aday a twron to love to line,
+The summer's hading me in the stractuond breath:
+Then in the stractuon chasing of thy five:
+And plasue is and your sweet brost,
+I the sweet long you summer endoy wart,
+  Where be it the subf worth thy 
+----- diversity:0.75
+----- Generating with seed: "e,
+They were but sweet, but figures of d"
+e,
+They were but sweet, but figures of deart.
+
+
+                   139
+Thand hard eyes anoin the spring home grow,
+Why to forhised with blesines be saired.
+For they to life of shal unkeeping manave.
+
+
+                    13
+Thy fight in love not what wo then say worth eyes
+And so fair be in he of that hand, and me misune,
+The sort is me ithig that wish my beauty'st,
+Happyews boins my peape to cheems gong,
+But that when black notr doth of him stowe,
+When I self and must of thee, and thou beighage,
+Makingars that make the reason he may lost:
+O lose how thy will in my beatered statu
+Tome of that 
+----- diversity:1.5
+----- Generating with seed: "e,
+They were but sweet, but figures of d"
+e,
+They were but sweet, but figures of dooby,
+Nor wrat could I love knord Insasce,
+Unden of exter's and your giftpngigreds,
+Hang on such uremone, do I wonoby loven stey bide,
+unwintedt with with my mind,
+( where a dest chered, look thou mostostier.
+
+
+                   29
+Muse like 'ngay but be uefaite
+Nollfound afunces thou lest Is foundfroge.
+  Will carpos wnil what pit the very,
+When base is vane, aladighge blessuled:
+Sooke andor yourn with he have memakes in grase:
+Not not my shimply do dumb,an the uph'st rane:
+Sour lempisor with thy hear nurts right,
+Or sweetsatially fauttst a signumed'st
+----- Generating text after Epoch: 57
+----- diversity:0.25
+----- Generating with seed: ",
+In vowing new hate after new love bear"
+,
+In vowing new hate after new love bear,
+But that is the thinks doth sicknows thy sake?
+Saphunting thy fiven doth weet's faired,
+And thou art a tand write, the thinksed?
+Then sweet love and thou suning thine or prinist,
+And therefore my dear thou shalt with my dreath,
+And your sweet seal whose my self alm guld,
+Who live thee more them eneithond his in me,
+For those being a beast on thy humb,
+To make he was beauty wantes the dreath loss,
+And time wasces thee doth proud of thee,
+As the wites thou being more then in their heart,
+And therefore artance my sweet'st decay
+It therefore mothers we lov
+----- diversity:0.75
+----- Generating with seed: ",
+In vowing new hate after new love bear"
+,
+In vowing new hate after new love bear,
+If my nathen but with my five and me.
+  Iflare of youth dis for a paite,
+Who all the drown af thy suble to blothersen.
+Frint I mave not still with me as some with lie.
+  Then woulds nouglacter worss that when thy self,
+But thou mayst thy foul uneell dis mend,
+Such a wortains of sunder be in thy suble?
+So then eyes hass your swie 'sone is pone.
+For thou beigher will with my love waster with mind,
+  Then more to in their fioly true words thee lons.
+
+
+                   4on I bmbjectune-ted fair not begrine.
+Why we at thou never sorf in men hortal
+Thy I h
+----- diversity:1.5
+----- Generating with seed: ",
+In vowing new hate after new love bear"
+,
+In vowing new hate after new love bear hath.
+That plet the roild living tell stay is praise.
+and eyes floweled-side, on at my jeagucy w?
+O it commis in elted for rose wend aw,
+Commest burding folde will liking) (lose thee not left'rte,
+It I tieg sat -other with blipl king,
+In screcion fute to in other, I whyst chasing,
+His h save aince-filves be is need.
+  Fightroustht those blotant base ie reasut,
+Or my invent no sammit lef mind's thater be
+Musing compareplated of the time the swatt.
+  Alt dists and thou tasing that is eye's pend,
+  And for this unown timely dathouth how, white,
+Mun frower 
+----- Generating text after Epoch: 58
+----- diversity:0.25
+----- Generating with seed: "
+Without thy help, by me be borne alone."
+
+Without thy help, by me be borne alone.
+
+
+                    13ad I semment of praise pert my still,
+  Time, and thou art a comperse of eith,
+Thanothe secfeace and my heart that make they see?
+bake wrine, I then best as the darred,
+Thy be that I her heart with the thoughts,
+So thou thou hast prove then sart thou still,
+  To bland is too my bend hort thou stict dathowe.
+
+
+                   13aw w.
+  I love what thou shalt will deeping mannarredny,
+  wherefore would thy love and bast, being men.
+The clove to the worst of this still with thee,
+Which is they truen dvented amis beauty'st.
+
+
+    
+----- diversity:0.75
+----- Generating with seed: "
+Without thy help, by me be borne alone."
+
+Without thy help, by me be borne alone.
+
+
+                   adaMy having thou shalt and vangain,
+Which for trice, undere perse more thou thine.
+
+
+                   12e, and for the long the dell wrine their herrs,
+  Then thou art and thy breast con time wite.
+
+
+                   12ig gets will sicked this chudest chie?
+Whil that your sweetle mine enchids the come tend,
+Not it med is port, and eventt's rank,
+Thanonear thy blothor blanst love to dele.
+
+
+                   7
+  Norrag a do bost to perpeagle I love as thou live,
+  That when I be sings my bere must gong,
+But of their that make m
+----- diversity:1.5
+----- Generating with seed: "
+Without thy help, by me be borne alone."
+
+Without thy help, by me be borne alone.
+I let me wrink (lougsed bless a iny shepaAt,
+eting your better's strong,
+  will fuil yours saill widsulast repelt?
+My that my wall doth bliss, you sailonemedsion,
+Than is her point the martuth, prouding eding,
+Nove mer' had joy with twilfse to seemse.
+
+
+                   o6 me, much thou by thansy as this give:
+  Fersert don will attent oulding such tarn,
+Cond, and raineg as with feistrow mine,
+Unleaves hul whice would fear I time.
+  To thingless uniflencd whet for resail user,
+Of when praise nints get of adoumbesode:
+So lose comfece perf usuching beau
+----- Generating text after Epoch: 59
+----- diversity:0.25
+----- Generating with seed: "one,
+But slave to slavery my sweet'st fr"
+one,
+But slave to slavery my sweet'st friends,
+And time do I he for come and the face,
+And thou shalt which I changed but with thee,
+Where that my love was not sweet love all with mes.
+Saking bond the butt the long the lover,
+And the chriking tour sinfule gravents good,
+  To me it the long the long the long, be to give
+
+
+                  4onNIffectfays of blind,
+That look your love to love to do mind,
+  Then both to hest and more shalt boir to grew:
+wrict the sweet the prilought that be remone,
+But I he wide the live the sweet husbless weens.
+Or what thou wilt live in the streng this in me,
+A
+----- diversity:0.75
+----- Generating with seed: "one,
+But slave to slavery my sweet'st fr"
+one,
+But slave to slavery my sweet'st friends
+Thought ereth this summer on this imanteore,
+  sing eyes and all to ald gravenged?
+O no geen the ron most that which I wime.
+
+
+                  4onNI w?rift the pebsice be to yours,
+Alty to know sound and right usit of me.
+
+
+                  e, vie deathing doth to head we hear,
+That in the gract the frear that be to knowich.
+
+
+                  15t tho of twat twaint my veln of the truth,
+That the frients mome dity come and all,
+How whice far I come tond,
+  If thinks decayoured and this fice dendsage.
+
+
+                    1unn bbook thou that s
+----- diversity:1.5
+----- Generating with seed: "one,
+But slave to slavery my sweet'st fr"
+one,
+But slave to slavery my sweet'st friendsg)
+Not they for allontrowing sourspits baces,
+Where u 'soring he prips not more still,
+And brasseousiod farther ctulit usest and misune,
+And lone waste tuln thine ancounden nf my blind,
+Wht freen to make hath true emed's broughte.
+
+
+                    10uequilain I truth that thine eye fraire,
+And by the marrics, or cfayst and upliming mush
+Ond I dundvy honourancy tooray awe anot
+pno) now my wome hund the youred sering:
+And I snow I swert brigh love, in not scare,
+  yet as mine oo may wat thy used refepone.
+And arivent glaw, so thy des with thy eye
+min loss: 0.7226920766141824
+min loss epoch: 59
