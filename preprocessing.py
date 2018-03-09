@@ -120,6 +120,7 @@ def processed_shakespeare_data2():
         data.append(sonnet_new)
 
     dictionary[1365] = dictionary[1365].upper()  # capitalize 'i'
+    dictionary[1366] = dictionary[1366].capitalize()  # capitalize "i'll"
 
     # Generate rhyming dictionary based on the words that appear at the end of
     # the lines in Shakspeare's sonnets.
