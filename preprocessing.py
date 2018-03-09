@@ -86,7 +86,6 @@ def processed_shakespeare_data2():
     # Load dictionary from text file.
     syllable_dict = load_syllable_dict()
     dictionary = [word[0] for word in syllable_dict]
-    dictionary[1365] = dictionary[1365].upper()  # capitalize 'i'
 
     # Create lists for syllable information.
     syllables = []
@@ -119,6 +118,8 @@ def processed_shakespeare_data2():
                 line_new.append(dictionary.index(word.lower()))
             sonnet_new.append(line_new)
         data.append(sonnet_new)
+
+    dictionary[1365] = dictionary[1365].upper()  # capitalize 'i'
 
     # Generate rhyming dictionary based on the words that appear at the end of
     # the lines in Shakspeare's sonnets.
