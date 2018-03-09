@@ -15,9 +15,9 @@ def processed_shakespeare_data():
                         word can have. Each element of `syllables` is a list.
                         The indices of the words are the same as the indices of
                         `dictionary`.
-        end_syllables   A list which the number of syllables each word has when
-                        it appears at the end of the line. If the number is 0,
-                        then the word doesn't appear at the end of a line.
+        end_syllables   A list of the number of syllables each word has when it
+                        appears at the end of the line. If the number is 0, then
+                        the word doesn't appear at the end of a line.
     '''
     sonnets = load_shakespeare()
 
@@ -142,6 +142,28 @@ def processed_shakespeare_data2():
     X = [x for y in data for x in y]
 
     return X, dictionary, syllables, end_syllables, rhyme_dict
+
+def punctuation_freq_shakespeare():
+    '''
+    Returns two lists of the frequencies with which six punctuation marks appear
+    in Shakespeare's sonnets.
+
+    punct_marks     a list of punctuation marks [',', '.', ':', '!', ';', '?']
+    punct_freq      a list of the frequencies with which each of the six
+                    punctuation marks appear. normalized to sum to 1.
+    '''
+    punct_marks = [',', '.', ':', '!', ';', '?']
+    punct_freq = [0, 0, 0, 0, 0, 0]
+    with open('data/shakespeare.txt') as f:
+        while True:
+            c = f.read(1)
+            if not c:
+                break
+            if c in punct_marks:
+                punct_freq[punct_marks.index(c)] += 1
+    punct_sum = sum(punct_freq)
+    punct_freq = [x / punct_sum for x in punct_freq]
+    return punct_marks, punct_freq
 
 def load_shakespeare():
     '''
