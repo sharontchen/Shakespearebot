@@ -38,12 +38,16 @@ def ten_syllables_poem_generator(n_states, N_iters, k):
         for s, emission in enumerate(sonnet_lines):
             if s == 13:
                 # Last line of sonnet ends with period.
-                print(' '.join([words_list[j] for j in emission]).capitalize() + '.')
-                f.write(' '.join([words_list[j] for j in emission]).capitalize() + '.')
+                line = ' '.join([words_list[j] for j in emission])+ '.'
+                line = line[0].upper() + line[1:]
+                print(line)
+                f.write(line)
             else:
+                line = ' '.join([words_list[j] for j in emission]) + random.choices(punct_marks, weights=punct_freq)[0]
+                line = line[0].upper() + line[1:]
                 # Add some punctuation to the end of every sentence
-                print(' '.join([words_list[j] for j in emission]).capitalize() + random.choices(punct_marks, weights=punct_freq)[0])
-                f.write(' '.join([words_list[j] for j in emission]).capitalize() + random.choices(punct_marks, weights=punct_freq)[0])
+                print(line)
+                f.write(line)
             f.write('\n')
         f.write('\n\n')
         f.close()
