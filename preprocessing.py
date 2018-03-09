@@ -24,23 +24,22 @@ def processed_shakespeare_data():
     # Tokenize the sonnets into individual words.
     X = []
     for i, sonnet in enumerate(sonnets):
-        if i != 98 and i != 125:    # ignore sonnets 99 and 126
-            sonnet_new = []
-            for line in sonnet:
-                for word in line.split():
-                    if word[0] == '(':
-                        word = word[1:]
-                    if word[0] == "'" and word[1:].lower() not in \
-                    ['gainst', 'greeing,', 'scaped', 'tis', 'twixt']:
-                        word = word[1:]
-                    if word[-1] in [',', '.', '?', '!', ':', ';', ')']:
-                        word = word[:-1]
-                    if word[-1] == "'" and word[:-1].lower() not in ['t', 'th']:
-                        word = word[:-1]
-                    if word[-1] in [',', '.', '?', '!', ':', ';', ')']:
-                        word = word[:-1]
-                    sonnet_new.append(word.lower())
-            X.append(sonnet_new)
+        sonnet_new = []
+        for line in sonnet:
+            for word in line.split():
+                if word[0] == '(':
+                    word = word[1:]
+                if word[0] == "'" and word[1:].lower() not in \
+                ['gainst', 'greeing,', 'scaped', 'tis', 'twixt']:
+                    word = word[1:]
+                if word[-1] in [',', '.', '?', '!', ':', ';', ')']:
+                    word = word[:-1]
+                if word[-1] == "'" and word[:-1].lower() not in ['t', 'th']:
+                    word = word[:-1]
+                if word[-1] in [',', '.', '?', '!', ':', ';', ')']:
+                    word = word[:-1]
+                sonnet_new.append(word.lower())
+        X.append(sonnet_new)
 
     # Convert the sequences of words to sequences of integers.
     syllable_dict = load_syllable_dict()
