@@ -87,6 +87,7 @@ def processed_shakespeare_data2():
     # Load dictionary from text file.
     syllable_dict = load_syllable_dict()
     dictionary = [word[0] for word in syllable_dict]
+    dictionary[1365] = dictionary[1365].upper()  # capitalize 'i'
 
     # Create lists for syllable information.
     syllables = []
