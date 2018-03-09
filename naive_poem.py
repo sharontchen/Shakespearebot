@@ -23,9 +23,9 @@ def naive_poem_generator(n_states, N_iters, k):
         HMM = unsupervised_HMM(data, n_states, N_iters)
 
         print('Generating emission...')
+
         # Generate a 14-line sonnet in one long sequence of integers
         emission, states = HMM.generate_emission(140)
-        # x = ''.join([str(i) for i in emission])
 
         sonnet_lines = [[] for i in range(14)]
         e = 0
@@ -40,7 +40,7 @@ def naive_poem_generator(n_states, N_iters, k):
                 else:
                     sonnet_lines[j].append(words_list[emission[e]])
                 # Add number of syllables
-                line_syllables += syllables[words_list[emission[e]]][0]
+                line_syllables += syllables[emission[e]][0]
                 e += 1
 
         print('Naive Sonnet # ' + str(i))
@@ -50,6 +50,7 @@ def naive_poem_generator(n_states, N_iters, k):
         # Print the results.
         for k, line in enumerate(sonnet_lines):
             if k == 13:
+                # Last line of sonnet ends with period.
                 print(' '.join([word for word in line]) + '.')
                 f.write(' '.join([word for word in line]) + '.')
             else:
