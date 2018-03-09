@@ -29,7 +29,7 @@ def on_epoch_end(epoch, logs):
 	    f.write('\n----- Generating text after Epoch: %d' % epoch)
 
 	    start_index = random.randint(0, len(text) - maxlen - 1)
-	    for diversity in [0.25, 0.75, 1.5]:
+	    for diversity in [0.25, 0.5, 0.75, 1, 1.5]:
 	        print('----- diversity:', diversity)
 	        f.write('\n----- diversity:' + str(diversity))
 
@@ -78,6 +78,7 @@ while i < len(j):
     i+=1
 text = ''.join(k)
 print('corpus length: ', len(text))
+j, i, k = 0,0,0
 
 # Get all unique characters in the text, assign them unique integers
 chars = sorted(list(set(text)))
@@ -111,7 +112,7 @@ for i, sentence in enumerate(sentences):
 # Set parameters
 char_len = len(chars)
 u_list = [200]
-epoch_num = 3
+epoch_num = 100
 optimizer = 'rmsprop'
 temperatures = [0.25, 0.75, 1.5]
 
@@ -183,7 +184,7 @@ with open('char-LSTM-log-9.txt', 'a') as f:
 	        sys.stdout.flush()
 	    print()
 
-
+'''
 fig = plt.figure()
 for i, loss in enumerate(loss_list):
     plt.plot(loss, label=str(u_list[i]) + ' units')
@@ -192,3 +193,4 @@ plt.xlabel("Epochs")
 plt.ylabel("Loss")
 plt.legend()
 plt.savefig('Loss-trends-different-LSTM-units.png')
+'''
