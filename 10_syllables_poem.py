@@ -14,6 +14,7 @@ def ten_syllables_poem_generator(n_states, N_iters, k):
     '''
     # Data to train on from pre-processing
     data, words_list, syllables, end_syllables, rhyme_dict = processed_shakespeare_data2()
+    # print(words_list)
 
     # Generate k input sequences.
     for i in range(k):
@@ -25,7 +26,7 @@ def ten_syllables_poem_generator(n_states, N_iters, k):
 
         print('Generating emission...')
 
-        # Generate a 14-line sonnet in one long sequence of integers
+        # Generate a 14-line sonnet with 10 syllables in each line
         sonnet_lines = HMM.generate_sonnet_emission(words_list, syllables, end_syllables)
         punct_marks, punct_freq = punctuation_freq_shakespeare()
 
@@ -41,7 +42,6 @@ def ten_syllables_poem_generator(n_states, N_iters, k):
                 f.write(' '.join([words_list[j] for j in emission]).capitalize() + '.')
             else:
                 # Add some punctuation to the end of every sentence
-                # TODO: choose punctuation with  same probabilities as in original sonnets
                 print(' '.join([words_list[j] for j in emission]).capitalize() + random.choices(punct_marks, weights=punct_freq)[0])
                 f.write(' '.join([words_list[j] for j in emission]).capitalize() + random.choices(punct_marks, weights=punct_freq)[0])
             f.write('\n')
