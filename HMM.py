@@ -552,11 +552,11 @@ class HiddenMarkovModel:
                 if num_syllables + syllables[e][0] >= 10:
                     # Temporarily set weight to 0, discard emission and regenerate
                     temp_weights = self.O[s][:]
-                    while num_syllables + end_syllables[e][0] != 10:
+                    while num_syllables + syllables[e][0] != 10:
                         temp_weights[e] = 0
                         e = random.choices(range(self.D), weights=temp_weights)[0]
                     line.insert(0, e)
-                    num_syllables += end_syllables[e][0]
+                    num_syllables += syllables[e][0]
 
                 else:
                     line.insert(0, e)
