@@ -11,11 +11,12 @@ def processed_shakespeare_data():
                         sonnet is represented as a list of integers, where the
                         integer is the index of the word in `dictionary`.
         dictionary      A list of all the words in all of Shakespeare's sonnets.
-        syllables       A Python dictionary which maps a word to a list of the
-                        number of syllables that word can have.
-        end_syllables   A Python dictionary which maps a word to a number
-                        representing the number of syllables it has when the
-                        word appears at the end of the line. If the number is 0,
+        syllables       A list which stores the possible number of syllables a
+                        word can have. Each element of `syllables` is a list.
+                        The indices of the words are the same as the indices of
+                        `dictionary`.
+        end_syllables   A list which the number of syllables each word has when
+                        it appears at the end of the line. If the number is 0,
                         then the word doesn't appear at the end of a line.
     '''
     sonnets = load_shakespeare()
@@ -48,12 +49,15 @@ def processed_shakespeare_data():
         for j in range(len(X[i])):  # loop over every word in each sonnet
             X[i][j] = dictionary.index(X[i][j])
 
-    # Create dictionaries for syllable information.
-    syllables = {}
-    end_syllables = {}
+    # Capitalize 'i' in the dictionary.
+    dictionary[1365] = dictionary[1365].upper()
+
+    # Create lists for syllable information.
+    syllables = []
+    end_syllables = []
     for word in syllable_dict:
-        syllables[word[0]] = word[2]
-        end_syllables[word[0]] = word[1]
+        syllables.append(word[2])
+        end_syllables.append(word[1])
 
     return X, dictionary, syllables, end_syllables
 
@@ -67,12 +71,14 @@ def processed_shakespeare_data2():
                         line is represented as a list of integers, where the
                         integer is the index of the word in `dictionary`.
         dictionary      A list of all the words in all of Shakespeare's sonnets.
-        syllables       A Python dictionary which maps a word to a list of the
-                        number of syllables that word can have.
-        end_syllables   A Python dictionary which maps a word to a number
-                        representing the number of syllables it has when the
-                        word appears at the end of the line. If the number is 0,
-                        then the word doesn't appear at the end of a line.
+        syllables       A list which stores the possible number of syllables a
+                        word can have. Each element of `syllables` is a list.
+                        The indices of the words are the same as the indices of
+                        `dictionary`.
+        end_syllables   A list which stores the possible number of syllables a
+                        word can have if it appears at the end of a line. Each
+                        element of `end_syllables` is a list. The indices of the
+                        words are the same as the indices of `dictionary`.
         rhyme_dict      A list of lists of the form [word1, word2], where word1
                         and word2 are rhyming words. The words are represented
                         as integers corresponding to the index of the word in
@@ -82,12 +88,12 @@ def processed_shakespeare_data2():
     syllable_dict = load_syllable_dict()
     dictionary = [word[0] for word in syllable_dict]
 
-    # Create dictionaries for syllable information.
-    syllables = {}
-    end_syllables = {}
+    # Create lists for syllable information.
+    syllables = []
+    end_syllables = []
     for word in syllable_dict:
-        syllables[word[0]] = word[2]
-        end_syllables[word[0]] = word[1]
+        syllables.append(word[2])
+        end_syllables.append(word[1])
 
     # Load Shakespeare's sonnets.
     sonnets = load_shakespeare()
@@ -183,9 +189,9 @@ def load_syllable_dict():
     lists. Each element in the list has this form:
         [word, end, syllables]
             word:       the word
-            end:        the number of syllables in the word if it appears at the
-                        end of the line. (if `end` is 0, then the word does not
-                        appear at the end of a line.)
+            end:        a list of integers, representing the possible number of
+                        syllables the word can have if it appears at the end of
+                        the line
             syllables:  a list of integers, representing the possible number of
                         syllables the word can have
     '''
@@ -195,13 +201,15 @@ def load_syllable_dict():
         line = line.split()
         word = []
         word.append(line[0])
-        end = 0
+        end = []
         syllables = []
         for i in range(1, len(line)):
             if line[i][0] == 'E':
-                end = int(line[i][1:])
+                end.append(int(line[i][1:]))
             else:
                 syllables.append(int(line[i]))
+        if end == []:
+            end = syllables
         word.append(end)
         word.append(syllables)
         words.append(word)
