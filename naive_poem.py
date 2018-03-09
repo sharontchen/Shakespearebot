@@ -49,8 +49,8 @@ def naive_poem_generator(n_states, N_iters, k):
         f = open('output/naive_poem.txt', 'a+')
 
         # Print the results.
-        for k, line in enumerate(sonnet_lines):
-            if k == 13:
+        for j, line in enumerate(sonnet_lines):
+            if j == 13:
                 # Last line of sonnet ends with period.
                 print(' '.join([word for word in line]) + '.')
                 f.write(' '.join([word for word in line]) + '.')
@@ -112,8 +112,8 @@ def naive_poem2_generator(n_states, N_iters, k):
         f = open('output/naive_poem2.txt', 'a+')
 
         # Print the results.
-        for k, line in enumerate(sonnet_lines):
-            if k == 13:
+        for j, line in enumerate(sonnet_lines):
+            if j == 13:
                 # Last line of sonnet ends with period.
                 print(' '.join([word for word in line]) + '.')
                 f.write(' '.join([word for word in line]) + '.')
@@ -141,5 +141,5 @@ if __name__ == '__main__':
     N_iters = 40
     k = 2
 
-    naive_poem2_generator(n_states, N_iters, k)
-    # naive_poem2_generator(n_states, N_iters,l)
+    # naive_poem2_generator(n_states, N_iters, k)
+    naive_poem_generator(n_states, N_iters, k)
