@@ -398,34 +398,24 @@ class HiddenMarkovModel:
         '''
 
         emission = []
-        state = random.choice(range(self.L))
         states = []
 
-        for t in range(M):
-            # Append state.
-            states.append(state)
+        # Choose the starting state uniformly at random.
+        s = random.randrange(self.L)
+        states.append(s)
 
-            # Sample next observation.
-            rand_var = random.uniform(0, 1)
-            next_obs = 0
+        # Generate the first emission.
+        e = random.choices(range(self.D), weights=self.O[s])[0]
+        emission.append(e)
 
-            while rand_var > 0:
-                rand_var -= self.O[state][next_obs]
-                next_obs += 1
+        for m in range(1, M):
+            # Choose the next state.
+            s = random.choices(range(self.L), weights=self.A[s])[0]
+            states.append(s)
 
-            next_obs -= 1
-            emission.append(next_obs)
-
-            # Sample next state.
-            rand_var = random.uniform(0, 1)
-            next_state = 0
-
-            while rand_var > 0:
-                rand_var -= self.A[state][next_state]
-                next_state += 1
-
-            next_state -= 1
-            state = next_state
+            # Generate the next emission.
+            e = random.choices(range(self.D), weights=self.O[s])[0]
+            emission.append(e)
 
         return emission, states
 
