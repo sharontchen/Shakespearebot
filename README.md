@@ -5,11 +5,9 @@ In this project, we attempt to generate Shakespearean sonnets by training variou
 We use the following modules:
 
 ## Requirements
-Python 3
-
-python-Levenshtein==0.12.0
-
-Keras
+Python 3  
+python-Levenshtein==0.12.0  
+Keras  
 
 ##  Poetry-Tools
 Github Repository: https://github.com/hyperreality/Poetry-Tools
