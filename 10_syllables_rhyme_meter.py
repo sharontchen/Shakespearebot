@@ -4,7 +4,7 @@ from preprocessing import processed_shakespeare_data2
 import random
 from preprocessing import punctuation_freq_shakespeare
 
-def ten_syllables_rhyme_generator(n_states, N_iters, k, train_on='line'):
+def ten_syllables_rhyme_meter_generator(n_states, N_iters, k, train_on='line'):
     '''
     Trains an HMM using unsupervised learning and generates k 14-line sonnets.
 
@@ -27,7 +27,7 @@ def ten_syllables_rhyme_generator(n_states, N_iters, k, train_on='line'):
 
     print('Training unsupervised HMM...')
 
-    f = open('output/10_syllables_rhyme.txt', 'a+')
+    f = open('output/10_syllables_rhyme_meter.txt', 'a+')
 
     print('(%d states, %d iterations, training on each %s)\n\n' % \
     (n_states, N_iters, train_on))
@@ -41,8 +41,8 @@ def ten_syllables_rhyme_generator(n_states, N_iters, k, train_on='line'):
     for i in range(k):
 
         # Generate a 14-line sonnet
-        sonnet_lines = HMM.generate_sonnet_rhyme(words_list, syllables, \
-        end_syllables, rhyme_dict)
+        sonnet_lines = HMM.generate_sonnet_rhyme_meter(words_list, syllables, \
+        end_syllables, rhyme_dict, stress_dict)
         punct_marks, punct_freq = punctuation_freq_shakespeare()
 
         print('\n\nSonnet # ' + str(i + 1))
@@ -74,7 +74,8 @@ if __name__ == '__main__':
     print('')
     print('')
     print("#" * 70)
-    print("{:^70}".format("Generating Rhyming Sonnets with 10-Syllable Lines"))
+    print("{:^70}".format("Generating Rhyming Sonnets in Iambic Pentameter \
+    with 10-Syllable Lines"))
     print("#" * 70)
     print('')
     print('')
@@ -83,4 +84,4 @@ if __name__ == '__main__':
     N_iters = 20
     k = 3
 
-    ten_syllables_rhyme_generator(n_states, N_iters, k, train_on='line')
+    ten_syllables_rhyme_meter_generator(n_states, N_iters, k, train_on='line')
