@@ -71,7 +71,7 @@ if __name__ == '__main__':
     print('')
     print('')
 
-    n_states = 30
+    n_states = 100
     N_iters = 20
     k = 3
 
