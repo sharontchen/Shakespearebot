@@ -6,7 +6,9 @@ We use the following modules:
 
 ## Requirements
 Python 3
+
 python-Levenshtein==0.12.0
+
 Keras
 
 ##  Poetry-Tools
