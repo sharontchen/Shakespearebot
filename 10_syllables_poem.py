@@ -10,10 +10,12 @@ def ten_syllables_poem_generator(n_states, N_iters, k):
     Arguments:
         k:          Number of sonnets to generate.
         n_states:   Number of hidden states that the HMM should have.
-        N_iters:    Number of iterations for the unsupervised learning (EM algorithm)
+        N_iters:    Number of iterations for the unsupervised learning
+                    (EM algorithm)
     '''
     # Data to train on from pre-processing
-    data, words_list, syllables, end_syllables, rhyme_dict = processed_shakespeare_data2()
+    data, words_list, syllables, end_syllables, rhyme_dict, stress_dict = \
+    processed_shakespeare_data2()
     # print(words_list)
 
     # Generate k input sequences.
@@ -27,7 +29,8 @@ def ten_syllables_poem_generator(n_states, N_iters, k):
         print('Generating emission...')
 
         # Generate a 14-line sonnet with 10 syllables in each line
-        sonnet_lines = HMM.generate_sonnet_emission(words_list, syllables, end_syllables)
+        sonnet_lines = HMM.generate_sonnet_emission(words_list, syllables, \
+        end_syllables)
         punct_marks, punct_freq = punctuation_freq_shakespeare()
 
         print('Sonnet # ' + str(i))
@@ -43,7 +46,8 @@ def ten_syllables_poem_generator(n_states, N_iters, k):
                 print(line)
                 f.write(line)
             else:
-                line = ' '.join([words_list[j] for j in emission]) + random.choices(punct_marks, weights=punct_freq)[0]
+                line = ' '.join([words_list[j] for j in emission]) + \
+                random.choices(punct_marks, weights=punct_freq)[0]
                 line = line[0].upper() + line[1:]
                 # Add some punctuation to the end of every sentence
                 print(line)

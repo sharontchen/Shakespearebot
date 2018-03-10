@@ -11,22 +11,28 @@ def ten_syllables_rhyme_generator(n_states, N_iters, k, train_on='line'):
     Arguments:
         k:          Number of sonnets to generate.
         n_states:   Number of hidden states that the HMM should have.
-        N_iters:    Number of iterations for the unsupervised learning (EM algorithm)
-        train_on:   Optional argument. Train on either line or sonnet. Default to line.
+        N_iters:    Number of iterations for the unsupervised learning
+                    (EM algorithm)
+        train_on:   Optional argument. Train on either line or sonnet.
+                    Default to line.
     '''
     # Data to train on from pre-processing.
-    data, words_list, syllables, end_syllables, rhyme_dict = processed_shakespeare_data2()
+    data, words_list, syllables, end_syllables, rhyme_dict, stress_dict = \
+    processed_shakespeare_data2()
 
     # If train on sonnet instead of line.
     if train_on == 'sonnet':
-        data, words_list, syllables, end_syllables = processed_shakespeare_data()
+        data, words_list, syllables, end_syllables = \
+        processed_shakespeare_data()
 
     print('Training unsupervised HMM...')
 
     f = open('output/10_syllables_rhyme.txt', 'a+')
 
-    print('(%d states, %d iterations, training on each %s)\n\n' % (n_states, N_iters, train_on))
-    f.write('(%d states, %d iterations, training on each %s)\n\n\n' % (n_states, N_iters, train_on))
+    print('(%d states, %d iterations, training on each %s)\n\n' % \
+    (n_states, N_iters, train_on))
+    f.write('(%d states, %d iterations, training on each %s)\n\n\n' % \
+    (n_states, N_iters, train_on))
 
     # Train the HMM.
     HMM = unsupervised_HMM(data, n_states, N_iters)
@@ -34,8 +40,9 @@ def ten_syllables_rhyme_generator(n_states, N_iters, k, train_on='line'):
     # Generate k input sequences.
     for i in range(k):
 
-        # Generate a 14-line sonnet in one long sequence of integers
-        sonnet_lines = HMM.generate_sonnet_rhyme(words_list, syllables, end_syllables, rhyme_dict)
+        # Generate a 14-line sonnet
+        sonnet_lines = HMM.generate_sonnet_rhyme(words_list, syllables, \
+        end_syllables, rhyme_dict)
         punct_marks, punct_freq = punctuation_freq_shakespeare()
 
         print('\n\nSonnet # ' + str(i + 1))
@@ -49,7 +56,8 @@ def ten_syllables_rhyme_generator(n_states, N_iters, k, train_on='line'):
                 print(line)
                 f.write(line)
             else:
-                line = ' '.join([words_list[j] for j in emission]) + random.choices(punct_marks, weights=punct_freq)[0]
+                line = ' '.join([words_list[j] for j in emission]) + \
+                random.choices(punct_marks, weights=punct_freq)[0]
                 line = line[0].upper() + line[1:]
                 # Add some punctuation to the end of every sentence
                 print(line)
