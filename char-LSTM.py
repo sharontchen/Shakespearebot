@@ -22,8 +22,10 @@ def sample(preds, temperature=1.0):
 
 
 def on_epoch_end(epoch, logs):
+	print(epoch)
     # Function invoked at end of each epoch. Prints generated text.
-    with open('char-LSTM-log-9.txt', 'a') as f:
+'''
+    with open('char-LSTM-log-10.txt', 'a') as f:
 	    print()
 	    print('----- Generating text after Epoch: %d' % epoch)
 	    f.write('\n----- Generating text after Epoch: %d' % epoch)
@@ -58,6 +60,7 @@ def on_epoch_end(epoch, logs):
 	            f.write(next_char)
 	            sys.stdout.flush()
 	        print()
+'''
 
 
 # Read the input text file as a single string
@@ -114,7 +117,8 @@ char_len = len(chars)
 u_list = [200]
 epoch_num = 100
 optimizer = 'rmsprop'
-temperatures = [0.25, 0.75, 1.5]
+temperatures = [0.25, 0.5, 0.75, 1, 1.5]
+n_poems = 100
 
 loss_list = []
 
@@ -127,7 +131,7 @@ for units in u_list:
 	model.add(Activation('softmax'))
 
 	model.compile(loss='categorical_crossentropy', optimizer=optimizer)
-	with open('char-LSTM-log-9.txt', 'a') as f:
+	with open('char-LSTM-log-10.txt', 'a') as f:
 		f.write('\nunits: ' + str(units))
 		f.write('\nstep: ' + str(step))
 		f.write('\nepochs: ' + str(epoch_num))
@@ -141,7 +145,7 @@ for units in u_list:
 
 	          callbacks=[print_callback])
 
-	with open('char-LSTM-log-9.txt', 'a') as f:
+	with open('char-LSTM-log-10.txt', 'a') as f:
 		losses = model_history.history['loss']
 		min_loss = min(losses)
 		min_iter = losses.index(min_loss)
@@ -151,38 +155,45 @@ for units in u_list:
 	loss_list.append(losses)
 
 # Generate poems with trained model with given seed 
-with open('char-LSTM-log-9.txt', 'a') as f:
-	print('\n----- Comparing different temperatures with same initial seed -----')
-	f.write('\n----- Comparing different temperatures with same initial seed -----')
-	for diversity in temperatures:
-	    print('----- diversity:', diversity)
-	    f.write('\n----- diversity:' + str(diversity))
+sample_count = 0
+with open('char-LSTM-log-10.txt', 'a') as f:
+	while sample_count < n_poems:
+		if sample_count == 0:
+			print('\n----- Comparing different temperatures with same initial seed -----')
+			f.write('\n----- Comparing different temperatures with same initial seed -----')
+		for diversity in temperatures:
+		    print('----- diversity:', diversity)
+		    f.write('\n----- diversity:' + str(diversity))
 
-	    generated = ''
-	    sentence = 'shall i compare thee to a summer\'s day?\n'
-	    generated += sentence
+		    start_index = random.randint(0, len(text) - maxlen - 1)
+		    generated = ''
+		    sentence = text[start_index: start_index + maxlen]
+		    if sample_count == 0:
+		    	sentence = 'shall i compare thee to a summer\'s day?\n'
+		    generated += sentence
 
-	    print('----- Generating with seed: "' + sentence + '"')
-	    f.write('\n----- Generating with seed: "' + sentence + '"')
-	    sys.stdout.write(generated)
-	    f.write('\n' + generated)
+		    print('----- Generating with seed: "' + sentence + '"')
+		    f.write('\n----- Generating with seed: "' + sentence + '"')
+		    sys.stdout.write(generated)
+		    f.write('\n' + generated)
 
-	    for i in range(560):
-	        x_pred = np.zeros((1, maxlen, len(chars)))
-	        for t, char in enumerate(sentence):
-	            x_pred[0, t, char_indices[char]] = 1.
+		    for i in range(560):
+		        x_pred = np.zeros((1, maxlen, len(chars)))
+		        for t, char in enumerate(sentence):
+		            x_pred[0, t, char_indices[char]] = 1.
 
-	        preds = model.predict(x_pred, verbose=0)[0]
-	        next_index = sample(preds, diversity)
-	        next_char = indices_char[next_index]
+		        preds = model.predict(x_pred, verbose=0)[0]
+		        next_index = sample(preds, diversity)
+		        next_char = indices_char[next_index]
 
-	        generated += next_char
-	        sentence = sentence[1:] + next_char
+		        generated += next_char
+		        sentence = sentence[1:] + next_char
 
-	        sys.stdout.write(next_char)
-	        f.write(next_char)
-	        sys.stdout.flush()
-	    print()
+		        sys.stdout.write(next_char)
+		        f.write(next_char)
+		        sys.stdout.flush()
+		    print()
+		sample_count+=1
 
 '''
 fig = plt.figure()
