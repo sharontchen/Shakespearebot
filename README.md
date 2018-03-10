@@ -12,6 +12,6 @@ We use the following modules:
 ##  Poetry-Tools
 Github Repository: https://github.com/hyperreality/Poetry-Tools
 
-Performs prosodic analysis of poetry.
-Estimates rhyme scheme and metre using CMUDict, compares them against common forms using Levenshtein distance, and combines the results to guess the form of the poem.
-Contains a rhymes function that is faster than any other I have found.
+- Performs prosodic analysis of poetry.  
+- Estimates rhyme scheme and metre using CMUDict, compares them against common forms using Levenshtein distance, and combines the results to guess the form of the poem.  
+- Contains a rhymes function that is faster than any other I have found.
