@@ -72,7 +72,7 @@ if __name__ == '__main__':
     print('')
 
     n_states = 30
-    N_iters = 40
-    k = 10
+    N_iters = 20
+    k = 3
 
-    ten_syllables_rhyme_generator(n_states, N_iters, k, train_on='sonnet')
+    ten_syllables_rhyme_generator(n_states, N_iters, k, train_on='line')
