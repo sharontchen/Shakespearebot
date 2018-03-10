@@ -565,6 +565,97 @@ class HiddenMarkovModel:
         return sonnet
 
 
+    def generate_sonnet_rhyme_meter(self, words_list, syllables, end_syllables, rhyme_dict, stress_dict):
+        '''
+        Generates a sonnet, or a list of 14 emissions such that each emission
+        is a list of integers coresponding to a line with exactly 10 syllables,
+        assuming that the starting state is chosen uniformly at random.
+
+        Arguments:
+            words_list      A list of all the words in all of Shakespeare's sonnets.
+            syllables       A list which stores the possible number of syllables a
+                            word can have. Each element of `syllables` is a list.
+                            The indices of the words are the same as the indices of
+                            `dictionary`.
+            end_syllables   A list which stores the possible number of syllables a
+                            word can have if it appears at the end of a line. Each
+                            element of `end_syllables` is a list. The indices of the
+                            words are the same as the indices of `dictionary`.
+            rhyme_dict      A list of lists of the form [word1, word2], where word1
+                            and word2 are rhyming words. The words are represented
+                            as integers corresponding to the index of the word in
+                            `dictionary`.
+            stress_dict     A list of lists that indicates whether each word begins
+                            or ends in a stressed syllable.
+
+        Returns:
+            sonnet:   List of 14 emissions (list of integers corresponding to
+                      a line with exactly 10 syllables)
+                      Has rhyme scheme abab cdcd efef gg
+        '''
+        def column(matrix, i):
+            ''' Helper function to return the ith column of matrix. '''
+            return [row[i] for row in matrix]
+
+        sonnet = [[] for _ in range(14)]  # create 14-line sonnet
+
+        # Seed the end of each line with words that follow the rhyme pattern.
+        for i in range(7):
+            # Randomly get a pair of rhyming words.
+            while True:
+                rhyme_pair = random.choice(rhyme_dict)
+                # Both words end with a stressed syllable.
+                if stress_dict[rhyme_pair[0]][1] and stress_dict[rhyme_pair[1]][1]:
+                    break
+                rhyme_dict.remove(rhyme_pair)
+
+            # Randomly choose the order of the words in the rhyming pair.
+            order = [0, 1]
+            random.shuffle(order)
+            first_word = rhyme_pair[order[0]]
+            second_word = rhyme_pair[order[1]]
+            if i != 6:  # generate rhyming pairs for the quatrains
+                if i % 2 == 0:
+                    sonnet[i*2].append(first_word)
+                    sonnet[i*2+2].append(second_word)
+                else:
+                    sonnet[i*2-1].append(first_word)
+                    sonnet[i*2+1].append(second_word)
+            else:       # generate a rhyming pair for the couplet
+                sonnet[12].append(first_word)
+                sonnet[13].append(second_word)
+
+        # Generate each line, going backwards from the last word.
+        for line in sonnet:
+            # Choose a state to be in when generating the last word.
+            e = line[0]
+            num_syllables = random.choice(end_syllables[e])
+            s = random.choices(range(self.L), weights=column(self.O, e))[0]
+
+            while num_syllables < 10:
+                # Choose the previous state.
+                s = random.choices(range(self.L), weights=column(self.A, s))[0]
+
+                # Choose the previous word.
+                e = random.choices(range(self.D), weights=self.O[s])[0]
+
+                # Check if we are near 10 syllables for the line:
+                if num_syllables + syllables[e][0] >= 10:
+                    # Temporarily set weight to 0, discard emission and regenerate
+                    temp_weights = self.O[s][:]
+                    while num_syllables + syllables[e][0] != 10:
+                        temp_weights[e] = 0
+                        e = random.choices(range(self.D), weights=temp_weights)[0]
+                    line.insert(0, e)
+                    num_syllables += syllables[e][0]
+
+                else:
+                    line.insert(0, e)
+                    num_syllables += syllables[e][0]
+
+        return sonnet
+
+
     def probability_alphas(self, x):
         '''
         Finds the maximum probability of a given input sequence using
