@@ -82,6 +82,6 @@ if __name__ == '__main__':
 
     n_states = 40
     N_iters = 30
-    k = 5
+    k = 15
 
     ten_syllables_rhyme_meter_generator(n_states, N_iters, k, train_on='line')
