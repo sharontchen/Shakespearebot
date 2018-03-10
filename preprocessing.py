@@ -1,5 +1,6 @@
 # preprocessing.py
 # Loads and pre-processes Shakespearean sonnet data to train on.
+from Poetry_Tools import poetrytools
 
 def processed_shakespeare_data():
     '''
@@ -82,6 +83,9 @@ def processed_shakespeare_data2():
                         and word2 are rhyming words. The words are represented
                         as integers corresponding to the index of the word in
                         `dictionary`.
+        stress_dict:    List of lists of integers; each list in stress_dict has
+                        two elements, where first and second element is whether
+                        the word starts/ends with stressed syllable.
     '''
     # Load dictionary from text file.
     syllable_dict = load_syllable_dict()
@@ -143,7 +147,33 @@ def processed_shakespeare_data2():
     # as the same.
     X = [x for y in data for x in y]
 
-    return X, dictionary, syllables, end_syllables, rhyme_dict
+    stress_dict = process_stress_dict(dictionary)
+    return X, dictionary, syllables, end_syllables, rhyme_dict, stress_dict
+
+def process_stress_dict(dictionary):
+    '''
+    Returns stress dictionary a list of lists indexed in the same way as dictionary in
+    processed_shakespeare_data.
+
+    dictionary:     A list of all the words in all of Shakespeare's sonnets.
+    stress_dict:    List of lists of integers; each list in stress_dict has two
+                    elements, where first and second element is whether the
+                    word starts/ends with stressed syllable.
+    '''
+    stress_dict_helper = poetrytools.scanscion([dictionary])[0]
+    stress_dict = []
+    for stresses in stress_dict_helper:
+        stress = []
+        if stresses[0] == '1':
+            stress.append(1)
+        else:
+            stress.append(0)
+        if stresses[-1] == '1':
+            stress.append(1)
+        else:
+            stress.append(0)
+        stress_dict.append(stress)
+    return stress_dict
 
 def punctuation_freq_shakespeare():
     '''
