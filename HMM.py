@@ -629,6 +629,7 @@ class HiddenMarkovModel:
         for line in sonnet:
             # Choose a state to be in when generating the last word.
             e = line[0]
+            e_stress = stress_dict[e][0]    # starts with stressed syllable?
             num_syllables = random.choice(end_syllables[e])
             s = random.choices(range(self.L), weights=column(self.O, e))[0]
 
@@ -637,7 +638,10 @@ class HiddenMarkovModel:
                 s = random.choices(range(self.L), weights=column(self.A, s))[0]
 
                 # Choose the previous word.
-                e = random.choices(range(self.D), weights=self.O[s])[0]
+                while True:
+                    e = random.choices(range(self.D), weights=self.O[s])[0]
+                    if stress_dict[e][1] != e_stress:
+                        break
 
                 # Check if we are near 10 syllables for the line:
                 if num_syllables + syllables[e][0] >= 10:
@@ -651,6 +655,7 @@ class HiddenMarkovModel:
 
                 else:
                     line.insert(0, e)
+                    e_stress = stress_dict[e][0]
                     num_syllables += syllables[e][0]
 
         return sonnet
