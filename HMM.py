@@ -481,6 +481,89 @@ class HiddenMarkovModel:
 
         return sonnet
 
+    def generate_haiku_emission(self, words_list, syllables, end_syllables):
+        '''
+        Generates a haiku, or a list of 3 emissions such that each emission
+        is a list of integers coresponding to a line with # syllables as for a
+        haiku, assuming that the starting state is chosen uniformly at random.
+
+        Arguments:
+            words_list:     A list of all the words in all of Shakespeare's sonnets.
+            syllables:      A Python dictionary which maps a word to a list of the
+                            number of syllables that word can have.
+            end_syllables:  A Python dictionary which maps a word to a number
+                            representing the number of syllables it has when the
+                            word appears at the end of the line. If the number is 0,
+                            then the word doesn't appear at the end of a line.
+
+        Returns:
+            haiku:   List of 3 emissions (list of integers corresponding to
+            a line with correct haiku syllables)
+        '''
+        haiku = []
+
+        for i in range(3):
+            emission = []
+            states = []
+
+            num_syllables = 0
+            # Choose the starting state uniformly at random.
+            s = random.randrange(self.L)
+            states.append(s)
+
+            # Generate the first emission.
+            e = random.choices(range(self.D), weights=self.O[s])[0]
+            emission.append(e)
+            num_syllables += syllables[e][0]
+
+            if i == 0 or i == 2:
+                while num_syllables < 5:
+                    # Choose the next state.
+                    s = random.choices(range(self.L), weights=self.A[s])[0]
+                    states.append(s)
+
+                    # Generate the next emission.
+                    e = random.choices(range(self.D), weights=self.O[s])[0]
+
+                    # Check if we are near 10 syllables for the line:
+                    if num_syllables + syllables[e][0] >= 5:
+                        # Temporarily set weight to 0, discard emission and regenerate
+                        temp_weights = self.O[s][:]
+                        while num_syllables + end_syllables[e][0] != 5:
+                            temp_weights[e] = 0
+                            e = random.choices(range(self.D), weights=temp_weights)[0]
+                        emission.append(e)
+                        num_syllables += end_syllables[e][0]
+
+                    else:
+                        emission.append(e)
+                        num_syllables += syllables[e][0]
+            else:
+                while num_syllables < 7:
+                    # Choose the next state.
+                    s = random.choices(range(self.L), weights=self.A[s])[0]
+                    states.append(s)
+
+                    # Generate the next emission.
+                    e = random.choices(range(self.D), weights=self.O[s])[0]
+
+                    # Check if we are near 10 syllables for the line:
+                    if num_syllables + syllables[e][0] >= 7:
+                        # Temporarily set weight to 0, discard emission and regenerate
+                        temp_weights = self.O[s][:]
+                        while num_syllables + end_syllables[e][0] != 7:
+                            temp_weights[e] = 0
+                            e = random.choices(range(self.D), weights=temp_weights)[0]
+                        emission.append(e)
+                        num_syllables += end_syllables[e][0]
+
+                    else:
+                        emission.append(e)
+                        num_syllables += syllables[e][0]
+            haiku.append(emission)
+
+        return haiku
+
 
     def generate_sonnet_rhyme(self, words_list, syllables, end_syllables, rhyme_dict):
         '''
