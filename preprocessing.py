@@ -269,3 +269,18 @@ def load_syllable_dict():
         words.append(word)
     f.close()
     return words
+
+def chars_per_line():
+    '''
+    Returns the average number of characters per line in Shakespeare's
+    sonnets.
+    '''
+    lines = []
+    line_length = []
+    f = open('data/shakespeare.txt', 'r')
+    for line in f:
+        if not line.strip().isdigit() and line.strip() != '':
+            lines.append(line.strip())
+            line_length.append(len(line))
+    f.close()
+    return sum(line_length) / len(line_length)
