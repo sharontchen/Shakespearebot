@@ -284,3 +284,20 @@ def chars_per_line():
             line_length.append(len(line))
     f.close()
     return sum(line_length) / len(line_length)
+
+def top_words_shakespeare(n=10):
+    '''
+    Print the top n most frequently occurring observations in Shakespeare's
+    sonnets.
+    '''
+    X, obs_list, syllables, end_syllables, rhyme_dict, stress_dict = processed_shakespeare_data2()
+    obs = [j for i in X for j in i]
+
+    obs_freq = [0] * len(obs_list)
+    for i in range(len(obs)):
+        obs_freq[obs[i]] += 1
+    for i in range(n):
+        wi = obs_freq.index(max(obs_freq))
+        print(obs_list[wi])
+        del obs_list[wi]
+        del obs_freq[wi]

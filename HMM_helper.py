@@ -52,6 +52,20 @@ def text_to_wordcloud(text, max_words=50, title='', show=True):
     return wordcloud
 
 def states_to_wordclouds(hmm, obs_map, max_words=50, show=True):
+    def print_top_words(obs, n=10):
+        '''
+        Print the top n most frequently occurring observations in the list.
+        '''
+        obs_list = list(obs_map.keys())
+        obs_freq = [0] * len(obs_list)
+        for i in range(len(obs)):
+            obs_freq[obs[i]] += 1
+        for i in range(n):
+            wi = obs_freq.index(max(obs_freq))
+            print(obs_list[wi])
+            del obs_list[wi]
+            del obs_freq[wi]
+
     # Initialize.
     M = 100000
     n_states = len(hmm.A)
@@ -67,6 +81,10 @@ def states_to_wordclouds(hmm, obs_map, max_words=50, show=True):
     for i in range(n_states):
         obs_lst = np.array(emission)[np.where(np.array(states) == i)[0]]
         obs_count.append(obs_lst)
+
+        # Print the top 10 words for each state.
+        print('\nState %d' % i)
+        print_top_words(obs_lst, n=10)
 
     # For each state, convert it into a wordcloud.
     for i in range(n_states):
@@ -93,17 +111,17 @@ def parse_observations(text):
 
     for line in lines:
         obs_elem = []
-        
+
         for word in line:
             word = re.sub(r'[^\w]', '', word).lower()
             if word not in obs_map:
                 # Add unique words to the observations map.
                 obs_map[word] = obs_counter
                 obs_counter += 1
-            
+
             # Add the encoded word.
             obs_elem.append(obs_map[word])
-        
+
         # Add the encoded sequence.
         obs.append(obs_elem)
 
@@ -166,13 +184,13 @@ def animate_emission(hmm, obs_map, M=8, height=12, width=12, delay=1):
     arrow_p1 = 0.03
     arrow_p2 = 0.02
     arrow_p3 = 0.06
-    
+
     # Initialize.
     n_states = len(hmm.A)
     obs_map_r = obs_map_reverser(obs_map)
     wordclouds = states_to_wordclouds(hmm, obs_map, max_words=20, show=False)
 
-    # Initialize plot.    
+    # Initialize plot.
     fig, ax = plt.subplots()
     fig.set_figheight(height)
     fig.set_figwidth(width)
@@ -189,7 +207,7 @@ def animate_emission(hmm, obs_map, M=8, height=12, width=12, delay=1):
 
     # Initialize text.
     text = ax.text(text_x_offset, lim - text_y_offset, '', fontsize=24)
-        
+
     # Make the arrows.
     zorder_mult = n_states ** 2 * 100
     arrows = []
@@ -201,7 +219,7 @@ def animate_emission(hmm, obs_map, M=8, height=12, width=12, delay=1):
             y_i = y_offset + R * np.sin(np.pi * 2 * i / n_states)
             x_j = x_offset + R * np.cos(np.pi * 2 * j / n_states)
             y_j = y_offset + R * np.sin(np.pi * 2 * j / n_states)
-            
+
             dx = x_j - x_i
             dy = y_j - y_i
             d = np.sqrt(dx**2 + dy**2)
