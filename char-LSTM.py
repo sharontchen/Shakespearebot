@@ -2,7 +2,6 @@
 Code adapted from Kera's example lstm for text generation:
 https://github.com/keras-team/keras/blob/master/examples/lstm_text_generation.py
 '''
-from keras.callbacks import LambdaCallback
 from keras.models import Sequential
 from keras.layers import Dense, Activation
 from keras.layers import LSTM
