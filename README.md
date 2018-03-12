@@ -8,6 +8,8 @@ We use the following modules:
 - Python 3  
 - python-Levenshtein==0.12.0  
 - Keras  
+- numpy
+- matplotlib
 
 ##  Poetry-Tools
 Github Repository: https://github.com/hyperreality/Poetry-Tools
