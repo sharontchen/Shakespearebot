@@ -1,4 +1,7 @@
-from __future__ import print_function
+'''
+Code adapted from Kera's example lstm for text generation:
+https://github.com/keras-team/keras/blob/master/examples/lstm_text_generation.py
+'''
 from keras.callbacks import LambdaCallback
 from keras.models import Sequential
 from keras.layers import Dense, Activation
@@ -9,7 +12,6 @@ import numpy as np
 import matplotlib.pyplot as plt
 import random
 import sys
-import io
 
 def sample(preds, temperature=1.0):
     # helper function to sample an index from a probability array
@@ -19,49 +21,6 @@ def sample(preds, temperature=1.0):
     preds = exp_preds / np.sum(exp_preds)
     probas = np.random.multinomial(1, preds, 1)
     return np.argmax(probas)
-
-
-def on_epoch_end(epoch, logs):
-	print(epoch)
-    # Function invoked at end of each epoch. Prints generated text.
-'''
-    with open('char-LSTM-log-10.txt', 'a') as f:
-	    print()
-	    print('----- Generating text after Epoch: %d' % epoch)
-	    f.write('\n----- Generating text after Epoch: %d' % epoch)
-
-	    start_index = random.randint(0, len(text) - maxlen - 1)
-	    for diversity in [0.25, 0.5, 0.75, 1, 1.5]:
-	        print('----- diversity:', diversity)
-	        f.write('\n----- diversity:' + str(diversity))
-
-	        generated = ''
-	        sentence = text[start_index: start_index + maxlen]
-	        generated += sentence
-
-	        print('----- Generating with seed: "' + sentence + '"')
-	        f.write('\n----- Generating with seed: "' + sentence + '"')
-	        sys.stdout.write(generated)
-	        f.write('\n' + generated)
-
-	        for i in range(560):
-	            x_pred = np.zeros((1, maxlen, len(chars)))
-	            for t, char in enumerate(sentence):
-	                x_pred[0, t, char_indices[char]] = 1.
-
-	            preds = model.predict(x_pred, verbose=0)[0]
-	            next_index = sample(preds, diversity)
-	            next_char = indices_char[next_index]
-
-	            generated += next_char
-	            sentence = sentence[1:] + next_char
-
-	            sys.stdout.write(next_char)
-	            f.write(next_char)
-	            sys.stdout.flush()
-	        print()
-'''
-
 
 # Read the input text file as a single string
 with open("data/shakespeare.txt",'r') as f:
@@ -96,8 +55,6 @@ sentences = []
 next_chars = []
 
 # Generate all possible sentences in the file that are length maxlen
-# TODO: 
-#	Find way
 for i in range(0, len(text) - maxlen, step):
     sentences.append(text[i: i + maxlen])
     next_chars.append(text[i + maxlen])
@@ -131,21 +88,17 @@ for units in u_list:
 	model.add(Activation('softmax'))
 
 	model.compile(loss='categorical_crossentropy', optimizer=optimizer)
-	with open('char-LSTM-log-10.txt', 'a') as f:
+	with open('char-LSTM-log-11.txt', 'a') as f:
 		f.write('\nunits: ' + str(units))
 		f.write('\nstep: ' + str(step))
 		f.write('\nepochs: ' + str(epoch_num))
 		f.write('\noptimizer: ' + str(optimizer))
 
-	print_callback = LambdaCallback(on_epoch_end=on_epoch_end)
-
 	model_history = model.fit(x, y,
 	          batch_size=units,
-	          epochs=epoch_num,
+	          epochs=epoch_num)
 
-	          callbacks=[print_callback])
-
-	with open('char-LSTM-log-10.txt', 'a') as f:
+	with open('char-LSTM-log-11.txt', 'a') as f:
 		losses = model_history.history['loss']
 		min_loss = min(losses)
 		min_iter = losses.index(min_loss)
@@ -156,7 +109,7 @@ for units in u_list:
 
 # Generate poems with trained model with given seed 
 sample_count = 0
-with open('char-LSTM-log-10.txt', 'a') as f:
+with open('char-LSTM-log-11.txt', 'a') as f:
 	while sample_count < n_poems:
 		if sample_count == 0:
 			print('\n----- Comparing different temperatures with same initial seed -----')
@@ -177,6 +130,7 @@ with open('char-LSTM-log-10.txt', 'a') as f:
 		    sys.stdout.write(generated)
 		    f.write('\n' + generated)
 
+		    # Predict next character
 		    for i in range(560):
 		        x_pred = np.zeros((1, maxlen, len(chars)))
 		        for t, char in enumerate(sentence):
